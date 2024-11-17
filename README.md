@@ -3,7 +3,11 @@ Healthcare**
 
 By Heider Jeffer
 
-Visit our lab at : https://colab.research.google.com/drive/1zRbptlTAIM-lqBFNTefnQY3y9dwz5N2P?authuser=2#scrollTo=e7e5f84c-6615-4bb0-9cdb-9124a8077361
+* Explore our project: https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare
+
+
+* Visit our lab: https://colab.research.google.com/drive/1zRbptlTAIM-lqBFNTefnQY3y9dwz5N2P
+
 
 
 **Introduction**
