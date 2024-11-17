@@ -169,8 +169,9 @@ Code\" and art. 13 of GDPR 679/16 - \"European Regulation on the
 Protection of Personal Data\".
 
 ![Red text on a black background Description automatically
-generated](./images/media/image1.png){width="1.2625in"
-height="0.2638888888888889in"}
+generated](./images/media/image1.png)
 
-**\
-17^th^ November 2024**
+
+
+
+17th November 2024
