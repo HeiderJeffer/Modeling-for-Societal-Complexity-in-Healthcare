@@ -12,6 +12,8 @@ By Heider Jeffer
 
 <div>&bull; Explore the Code: Dive into the details of our simulation by reviewing the <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation.ipynb">source code</a>.</div>
 
+
+
 <p>We&rsquo;d love for you to explore, experiment, and share your thoughts with us!</p>
 </body>
 
