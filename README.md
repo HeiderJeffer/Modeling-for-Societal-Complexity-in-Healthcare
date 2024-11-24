@@ -3,20 +3,21 @@ Healthcare**
 
 By Heider Jeffer
 
-<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1209.0">
-<p>Hello and welcome! We&#39;re excited to share our work on participatory modeling for societal complexity in healthcare. Explore and engage with our resources below:</p>
-
-<div>&bull; Discover Our Project: Learn about our approach and research on <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare">GitHub</a></div>
-
-<div>&bull; Try It Out: Experiment with our simulation through this interactive <a href="https://colab.research.google.com/drive/1zRbptlTAIM-lqBFNTefnQY3y9dwz5N2P?authuser=2">Google </a><a href="https://colab.research.google.com/drive/1zRbptlTAIM-lqBFNTefnQY3y9dwz5N2P?authuser=2">Colab</a><a href="https://colab.research.google.com/drive/1zRbptlTAIM-lqBFNTefnQY3y9dwz5N2P?authuser=2"> notebook</a>.</div>
-
-<div>&bull; Explore the Code: Dive into the details of our simulation by reviewing the <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb">source code</a>.</div>
+**Hello and welcome 😀!**
 
 
+We're excited to share our work on participatory modeling for societal complexity in healthcare. 
 
-<p>We&rsquo;d love for you to explore, experiment, and share your thoughts with us!</p>
-</body>
+**Explore and engage with our resources below:**
 
+* Discover Our Project: Learn about our approach and research on <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare">GitHub</a>
+
+* Try It Out: Experiment with our simulation through this interactive <a href="https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2">Google Colab notebook</a>.
+
+* Explore the Code: Dive into the details of our simulation by reviewing the <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb">source code</a>.
+
+
+We'd love for you to explore, experiment, and share your thoughts with us!
 
 **Introduction**
 
