@@ -3,10 +3,9 @@ Healthcare**
 
 By Heider Jeffer
 
-* Explore our project: https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare
-
-
-* Visit our lab: https://colab.research.google.com/drive/1zRbptlTAIM-lqBFNTefnQY3y9dwz5N2P
+* Project Overview: Learn more about our research and approach on https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare
+* Interactive Lab: Experiment with our simulation in this: https://colab.research.google.com/drive/1zRbptlTAIM-lqBFNTefnQY3y9dwz5N2P
+* Source Code: Dive into the details of our healthcare participatory modeling simulation by exploring the https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation.ipynb
 
 
 
