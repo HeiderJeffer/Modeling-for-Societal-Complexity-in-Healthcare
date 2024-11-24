@@ -10,7 +10,7 @@ By Heider Jeffer
 
 <div>&bull; Try It Out: Experiment with our simulation through this interactive <a href="https://colab.research.google.com/drive/1zRbptlTAIM-lqBFNTefnQY3y9dwz5N2P?authuser=2">Google </a><a href="https://colab.research.google.com/drive/1zRbptlTAIM-lqBFNTefnQY3y9dwz5N2P?authuser=2">Colab</a><a href="https://colab.research.google.com/drive/1zRbptlTAIM-lqBFNTefnQY3y9dwz5N2P?authuser=2"> notebook</a>.</div>
 
-<div>&bull; Explore the Code: Dive into the details of our simulation by reviewing the <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation.ipynb">source code</a>.</div>
+<div>&bull; Explore the Code: Dive into the details of our simulation by reviewing the <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb">source code</a>.</div>
 
 
 
