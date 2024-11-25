@@ -10,7 +10,7 @@ We're excited to share our work on participatory modeling for societal complexit
 
 **Explore and engage with our resources below:**
 
-* Discover Our Project: Learn about our approach and research on <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare">GitHub</a>
+* Discover Our Project: Learn about our approach and research on <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare">GitHub</a>.
 
 * Try It Out: Experiment with our simulation through this interactive <a href="https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2">Google Colab notebook</a>.
 
