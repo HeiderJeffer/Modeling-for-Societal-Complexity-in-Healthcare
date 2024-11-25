@@ -15,6 +15,12 @@ We're excited to share our work on participatory modeling for societal complexit
 * Try It Out: Experiment with our simulation through this interactive <a href="https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2">Google Colab notebook</a>.
 
 * Explore the Code: Dive into the details of our simulation by reviewing the <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb">source code</a>.
+*  Here you can find: <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Research%20Questions.pdf">How we use Python to answer the Research Questions</a>
+
+* In the appendix you can find: <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/appendix%20.pdf"> Formula, Numerical Example, Simulation Steps that we used in Python to answer the research questions</a>
+
+* Here you can find <a href="https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Requirements.txt"> Software Requirements</a>
+
 
 
 We'd love for you to explore, experiment, and share your thoughts with us!
