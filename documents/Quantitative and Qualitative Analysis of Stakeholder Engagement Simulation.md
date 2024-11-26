@@ -1,5 +1,5 @@
 # Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation
-by Heider Jeffer
+*By Heider Jeffer*
 
 **General Explanation of the Code:**
 
