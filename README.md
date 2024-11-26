@@ -14,7 +14,7 @@ It follows a cutting-edge, rolling release model, with regular updates that cont
 ---
 
 **Explore Our Resources:**
-- [Research proposal](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Research%20proposal.pdf)
+- [Research proposal](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Research%20proposal.md)
 - [Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)
 - [Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)
 - [Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)
