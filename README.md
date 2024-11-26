@@ -94,6 +94,9 @@ engagement in these activities fosters a collaborative and efficient
 healthcare environment, improving patient outcomes, staff satisfaction,
 and overall system performance.
 
+
+![alt text](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/images/1.png)
+
 **1. Patients**
 
 **Types of Engagement Activities:**
