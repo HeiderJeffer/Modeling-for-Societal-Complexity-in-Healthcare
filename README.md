@@ -1,15 +1,10 @@
-**Research Proposal: Participatory Modeling for Societal Complexity in
-Healthcare**
+# Participatory Modeling for Societal Complexity in Healthcare
+*By Heider Jeffer*
 
-By Heider Jeffer
-
-**Hello and welcome!**
-
+## Welcome!
 We're excited to share our work on participatory modeling for societal complexity in healthcare.
 
-
-**Explore and engage with our resources below:**
-
+## Explore our resources:
 - **[Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)**
 - **[Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)**
 - **[Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)**
@@ -18,6 +13,8 @@ We're excited to share our work on participatory modeling for societal complexit
 - **[Software Requirements](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Requirements.txt)**
 
 We’d love for you to explore, experiment, and share your thoughts!
+
+
 
 **Introduction**
 
