@@ -23,7 +23,7 @@ It follows a cutting-edge, rolling release model, with regular updates that cont
 - [Explanation of the Python Code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Explanation%20of%20the%20Python%20Code.md)
 - [Research Questions](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Research%20Questions.md)
 - [Appendix: Formulas, Examples, Simulation Steps](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/appendix%20.pdf)
-- [Software Requirements](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Requirements.txt)
+- [Requirements](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Requirements.md)
 
 We encourage you to explore, experiment, and share your thoughts with us!
 
