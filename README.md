@@ -13,7 +13,7 @@ It follows a cutting-edge, rolling release model, with regular updates that cont
 
 ---
 
-**Explore Our Resources:**
+# **Explore Our Resources:**
 - [Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)
 - [Research proposal](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Research%20proposal.md)
 - [Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)
