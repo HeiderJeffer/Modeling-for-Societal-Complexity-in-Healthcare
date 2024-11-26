@@ -1,3 +1,11 @@
+# Project Requirements
+
+1. Anaconda
+2. HTML 5
+3. python=3.11
+
+Create enviorment:
+
 conda create -n project11 python=3.11 ipykernel -y
 
 conda activate project11
@@ -13,7 +21,12 @@ Windows upgrade PIP:
 python.exe -m pip install --upgrade pip
 
 
-### Software Requirements ###
+
+
+
+
+Copy/paste the following:
+```
 pip install alpha_vantage
 pip install yfinance
 pip install yfinance matplotlib
@@ -52,3 +65,4 @@ jupyter nbextension enable --py widgetsnbextension
 pip install jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
 jupyter nbextension list
+```
