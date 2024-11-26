@@ -1,313 +1,165 @@
-# Participatory Modeling for Societal Complexity in Healthcare
+# Participatory Modeling for Societal Complexity in Healthcare  
 *By Heider Jeffer*
 
-## Welcome!
+## Welcome!  
 We're excited to share our work on participatory modeling for societal complexity in healthcare.
 
-## Explore our resources:
-- **[Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)**
-- **[Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)**
-- **[Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)**
-- **[Research Questions](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Research%20Questions.pdf)**
-- **[Appendix: Formulas, Examples, Simulation Steps](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/appendix%20.pdf)**
-- **[Software Requirements](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Requirements.txt)**
+## Explore Our Resources:
+- [Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)
+- [Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)
+- [Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)
+- [Research Questions](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Research%20Questions.pdf)
+- [Appendix: Formulas, Examples, Simulation Steps](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/appendix%20.pdf)
+- [Software Requirements](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Requirements.txt)
 
-We’d love for you to explore, experiment, and share your thoughts!
+We encourage you to explore, experiment, and share your thoughts with us!
 
+---
 
+## Introduction
 
-**Introduction**
+The growing complexity of healthcare systems, particularly in addressing aging-related challenges, necessitates innovative, interdisciplinary approaches to develop sustainable and effective policies. *In silico* models—computational simulations of real-world phenomena—offer significant potential to optimize healthcare processes by helping us understand and predict system dynamics. However, deploying these models effectively requires a nuanced understanding of societal complexity, including stakeholder dynamics, institutional barriers, and incentive structures.
 
-The increasing complexity of healthcare systems, particularly in
-addressing aging-related challenges, calls for innovative,
-multi-disciplinary approaches to develop sustainable and effective
-policies. Computational simulations of real-world phenomena, known as
-*in silico* models, provide unparalleled opportunities to optimize
-healthcare processes by understanding and predicting system dynamics.
-However, deploying these models requires a nuanced understanding of
-societal complexity, including stakeholder dynamics, institutional
-barriers, and incentive structures.
+This research seeks to bridge the gap between advanced computational modeling and real-world healthcare applications by leveraging **participatory modeling**. This collaborative approach engages diverse stakeholders to co-develop models that reflect societal and systemic nuances, ensuring both accuracy and usability.
 
-This research aims to bridge the gap between advanced computational
-modeling and real-world healthcare applications by leveraging
-**participatory modeling**. This collaborative approach engages diverse
-stakeholders to co-develop models that reflect societal and systemic
-nuances, ensuring both accuracy and usability.
+---
 
-**Research Objectives**
+## Research Objectives
 
-1.  **Develop a Participatory Modeling Framework**\
-    Establish a research protocol to capture agency complexities,
-    structural hindrances, and incentive dynamics, focusing on
-    hospital-level adoption of *in silico* models.
+1. **Develop a Participatory Modeling Framework**  
+   Establish a research protocol to capture complexities of agency, structural hindrances, and incentive dynamics, focusing on hospital-level adoption of *in silico* models.
 
-2.  **Model Societal Complexity in Model Deployment**\
-    Use System Dynamics Modeling (SDM) and Hidden Markov Models (HMMs)
-    to simulate interactions between stakeholders, such as clinicians,
-    administrators, and policymakers, to explore:
+2. **Model Societal Complexity in Model Deployment**  
+   Use System Dynamics Modeling (SDM) and Hidden Markov Models (HMMs) to simulate stakeholder interactions, exploring:
+   - Barriers to adoption
+   - Strategies for incentivizing uptake
+   - Policy implications for healthcare delivery optimization
 
-    -   Barriers to adoption,
+3. **Validate Participatory Methods and Policies**  
+   Conduct participatory workshops to develop actionable policies and validate outcomes using real-world stakeholder feedback and data.
 
-    -   Strategies for incentivizing uptake,
+4. **Evaluate Impact**  
+   Measure the effectiveness of participatory modeling in fostering *in silico* model adoption and its effect on healthcare optimization.
 
-    -   Policy implications for healthcare delivery optimization.
+---
 
-3.  **Validate Participatory Methods and Policies**\
-    Develop actionable policies through participatory workshops and
-    validate outcomes using real-world stakeholder feedback and data.
+## Research Approach
 
-4.  **Evaluate Impact**\
-    Measure the effectiveness of participatory modeling in fostering *in
-    silico* model adoption and its effect on healthcare optimization.
+### Mixed Methods Framework
 
-**Research Approach**
+This research integrates both qualitative and quantitative methodologies to provide a comprehensive understanding of societal complexities in healthcare systems. A **concurrent triangulation design** will ensure that insights from both types of data collection are validated and synthesized iteratively.
 
-**Mixed Methods Framework**
+### 1. Literature Review
 
-This research integrates qualitative and quantitative methodologies to
-provide a comprehensive understanding of societal complexities in
-healthcare systems. A **concurrent triangulation design** will ensure
-that insights from both qualitative and quantitative data collection are
-validated and synthesized iteratively.
+- Conduct a systematic review of participatory modeling and *in silico* applications in healthcare.
+- Identify best practices and gaps to inform the proposed framework.
 
-**1. Literature Review**
+### 2. Stakeholder Engagement
 
--   Conduct a systematic review of participatory modeling and *in
-    silico* applications in healthcare.
+Each stakeholder plays a critical and interconnected role. Effective engagement fosters a collaborative and efficient healthcare environment, improving patient outcomes, staff satisfaction, and system performance.
 
--   Identify best practices and gaps, providing a foundation for the
-    proposed framework.
+#### 1. Patients
 
-**2. Stakeholder Engagement**
+**Engagement Activities:**
 
-Each stakeholder plays a distinct yet interconnected role. Effective
-engagement in these activities fosters a collaborative and efficient
-healthcare environment, improving patient outcomes, staff satisfaction,
-and overall system performance.
+- **Participation in Care**: Attending medical appointments, adhering to prescribed medications.
+- **Feedback and Communication**: Providing feedback via satisfaction surveys, participating in advocacy or support groups.
+- **Health Literacy**: Engaging in educational workshops, using patient portals.
+- **Preventative Care**: Participating in wellness programs and health screenings.
 
+#### 2. Doctors
 
-**1. Patients**
+**Engagement Activities:**
 
-**Types of Engagement Activities:**
+- **Direct Care Delivery**: Providing consultations, diagnoses, and treatments.
+- **Professional Development**: Attending medical conferences, continuing education.
+- **Collaboration**: Participating in multidisciplinary meetings, mentoring.
+- **Research and Advocacy**: Conducting clinical trials, advocating for policy improvements.
 
--   **Participation in Care:**
+#### 3. Nurses
 
-    -   Attending medical appointments, follow-ups, or therapy sessions.
+**Engagement Activities:**
 
-    -   Adhering to prescribed medications and treatment plans.
+- **Patient-Centered Care**: Educating patients, monitoring conditions.
+- **Coordination and Communication**: Acting as a liaison between patients and doctors.
+- **Professional Development**: Attending workshops or specialized certifications.
+- **Community Involvement**: Organizing health promotion activities, volunteering in underserved areas.
 
--   **Feedback and Communication:**
+#### 4. Administrators
 
-    -   Completing patient satisfaction surveys or providing feedback on
-        care.
+**Engagement Activities:**
 
-    -   Participating in patient advocacy or support groups.
+- **Operational Oversight**: Managing budgets, staffing, and logistics.
+- **Stakeholder Coordination**: Organizing training programs for staff.
+- **Strategic Planning**: Designing patient satisfaction initiatives.
+- **Data-Driven Decision-Making**: Analyzing metrics to inform improvements.
 
--   **Health Literacy:**
+---
 
-    -   Engaging in educational workshops about managing chronic
-        conditions.
+### Qualitative Data Collection
 
-    -   Using patient portals for accessing medical records, test
-        results, and messaging healthcare providers.
+- **Workshops**: Host participatory sessions with stakeholders to explore challenges, motivations, and perceptions.
+- **Interviews**: Conduct semi-structured interviews for in-depth insights into stakeholder behaviors and concerns.
+- **Document Analysis**: Analyze policies and healthcare guidelines to identify institutional barriers.
 
--   **Preventative Care:**
+### Quantitative Data Collection
 
-    -   Participating in health screenings, vaccinations, or wellness
-        programs.
+- **Surveys**: Distribute structured questionnaires to measure attitudes, priorities, and barriers.
+- **Observational Data**: Collect real-world data on workflows, resource allocations, and decision-making.
 
-    -   Attending fitness or mental health workshops.
+---
 
-**2. Doctors**
+### 3. Model Development
 
-**Types of Engagement Activities:**
+#### System Dynamics Modeling (SDM)
 
--   **Direct Care Delivery:**
+- Simulate stakeholder interactions and visualize systemic feedback loops.
+- Quantify the impact of proposed policies on model adoption.
 
-    -   Providing consultations, diagnoses, and treatments for patients.
+#### Hidden Markov Models (HMMs)
 
-    -   Performing surgeries or specialized medical procedures.
+- Account for behavioral uncertainties and transition probabilities in stakeholder decision-making.
 
--   **Professional Development:**
+#### Integration of Qualitative Insights
 
-    -   Attending medical conferences, workshops, or training sessions.
+- Map qualitative findings (e.g., resistance themes, collaboration patterns) into model parameters to ensure real-world accuracy.
 
-    -   Engaging in continuing medical education (CME) to stay updated
-        on best practices.
+---
 
--   **Collaboration:**
+### 4. Validation and Refinement
 
-    -   Participating in multidisciplinary team meetings to discuss
-        patient care.
+- **Participatory Feedback**: Present preliminary models to stakeholders and incorporate their feedback.
+- **Case Study Application**: Test models at Karolinska University Hospital.
+- **Triangulated Analysis**: Compare model outputs with qualitative and survey data to validate findings.
 
-    -   Mentoring medical students or residents.
+---
 
--   **Research and Advocacy:**
+### 5. Policy Recommendations
 
-    -   Conducting clinical trials or contributing to medical research.
+- Develop evidence-based policies informed by model simulations and stakeholder insights.
+- Pilot these recommendations during a planned secondment at VU Amsterdam and refine based on further feedback.
 
-    -   Advocating for healthcare policy improvements or patient rights.
+---
 
-**3. Nurses**
+## Expected Findings
 
-**Types of Engagement Activities:**
+1. **Framework Development**  
+   - A validated participatory modeling framework for healthcare systems.
+   - Practical guidelines for integrating stakeholder perspectives into computational models.
 
--   **Patient-Centered Care:**
+2. **Insights into Societal Complexity**  
+   - Quantitative identification of key barriers (e.g., adoption rates, resource constraints).
+   - Qualitative understanding of stakeholder dynamics and institutional challenges.
 
-    -   Educating patients about medications, treatments, and
-        post-discharge care.
+3. **Policy Effectiveness**  
+   - Evidence-based strategies to incentivize model uptake.
+   - Improved hospital-level outcomes through optimized resource allocation.
 
-    -   Monitoring patient conditions and adjusting care plans.
+4. **Validation of Participatory Modeling**  
+   - Enhanced stakeholder alignment and ownership of *in silico* models.
+   - Broader acceptance and implementation of proposed policies.
 
--   **Coordination and Communication:**
-
-    -   Acting as a liaison between patients and doctors to ensure care
-        continuity.
-
-    -   Collaborating with other healthcare team members.
-
--   **Professional Development:**
-
-    -   Attending workshops or obtaining certifications in specialized
-        fields (e.g., critical care, geriatrics).
-
--   **Community Involvement:**
-
-    -   Conducting health promotion activities, such as blood drives or
-        vaccination campaigns.
-
-    -   Volunteering for health outreach in underserved areas.
-
-**4. Administrators**
-
-**Types of Engagement Activities:**
-
--   **Operational Oversight:**
-
-    -   Managing hospital budgets, staffing, and logistics to ensure
-        smooth operation.
-
-    -   Overseeing compliance with healthcare regulations and standards.
-
--   **Stakeholder Coordination:**
-
-    -   Organizing training programs for healthcare staff.
-
-    -   Facilitating communication between departments and external
-        agencies.
-
--   **Strategic Planning:**
-
-    -   Designing and implementing patient satisfaction and engagement
-        initiatives.
-
-    -   Developing long-term plans for improving healthcare delivery and
-        efficiency.
-
--   **Data-Driven Decision-Making:**
-
-    -   Analyzing metrics on patient outcomes and staff performance to
-        inform improvements.
-
-    -   Implementing health information technology (HIT) systems, like
-        electronic health records (EHR).
-
-**Qualitative Data Collection**
-
--   **Workshops**: Host participatory sessions with stakeholders (e.g.,
-    clinicians, patients, administrators) to explore challenges,
-    motivations, and perceptions related to *in silico* model adoption.
-
--   **Interviews**: Conduct semi-structured interviews to gather
-    in-depth insights into stakeholders' behaviors, concerns, and
-    expectations.
-
--   **Document Analysis**: Analyze policies, healthcare guidelines, and
-    organizational documents to identify institutional barriers.
-
-**Quantitative Data Collection**
-
--   **Surveys**: Distribute structured questionnaires to measure
-    attitudes, priorities, and the prevalence of identified barriers.
-
--   **Observational Data**: Collect real-world data on current
-    workflows, resource allocations, and decision-making processes
-    within healthcare systems.
-
-**3. Model Development**
-
-**System Dynamics Modeling (SDM)**
-
--   Use SDM to simulate interactions among stakeholders and visualize
-    systemic feedback loops.
-
--   Quantify the impact of proposed policies and strategies on model
-    adoption.
-
-**Hidden Markov Models (HMMs)**
-
--   Incorporate HMMs to account for behavioral uncertainties and
-    transition probabilities in stakeholder decision-making processes.
-
-**Integration of Qualitative Insights**
-
--   Map qualitative findings (e.g., resistance themes, collaboration
-    patterns) into model parameters to ensure they reflect real-world
-    complexity.
-
-**4. Validation and Refinement**
-
--   **Participatory Feedback**: Present preliminary models to
-    stakeholders in workshops and incorporate their feedback.
-
--   **Case Study Application**: Test models against real-world scenarios
-    at Karolinska University Hospital to refine their accuracy.
-
--   **Triangulated Analysis**: Compare model outputs with qualitative
-    narratives and survey results to validate findings.
-
-**5. Policy Recommendations**
-
--   Develop evidence-based policies informed by model simulations and
-    stakeholder insights.
-
--   Pilot these recommendations during the planned secondment at VU
-    Amsterdam and refine based on further feedback.
-
-**Expected Findings**
-
-1.  **Framework Development**
-
-    -   A validated participatory modeling framework tailored to the
-        complexities of healthcare systems.
-
-    -   Practical guidelines for integrating stakeholder perspectives
-        into computational models.
-
-2.  **Insights into Societal Complexity**
-
-    -   Quantitative identification of key barriers (e.g., adoption
-        rates, resource constraints).
-
-    -   Qualitative understanding of stakeholder dynamics and
-        institutional challenges.
-
-3.  **Policy Effectiveness**
-
-    -   Evidence-based strategies to incentivize model uptake.
-
-    -   Improved hospital-level outcomes through optimized resource
-        allocation and stakeholder collaboration.
-
-4.  **Validation of Participatory Modeling**
-
-    -   Enhanced stakeholder alignment and ownership of *in silico*
-        models.
-
-    -   Greater usability and acceptance of proposed policies, leading
-        to broader implementation.
-
-
+---
 
 # Engagement and Uptake Insights
 
@@ -315,130 +167,94 @@ This document provides an overview of engagement trends, average engagement leve
 
 ---
 
-## 1. Engagement Trends by Activity
+### 1. Engagement Trends by Activity
+
 A visual representation of how engagement levels for each activity fluctuate over 12 months.
-
-**Graph Description:**  
-- Displays monthly engagement levels for activities like "Direct Care Delivery" (for doctors) and "Data-Driven Decision-Making" (for administrators).  
-- Helps in identifying periods of high and low engagement for better resource allocation.
-
 
 ![Engagement Trends by Activity](https://drive.google.com/uc?id=109KVc6RpfEXbiYAisPQIXoxx0XvJJWXF)
 
-
 ---
 
-## 2. Average Engagement Levels
+### 2. Average Engagement Levels
 
-### Average Engagement Levels by Stakeholder and Activity
+#### Average Engagement Levels by Stakeholder and Activity
 
 | **Stakeholder**   | **Activity**                       | **Average Engagement Level** |
-|--------------------|------------------------------------|------------------------------|
-| Administrators     | Data-Driven Decision-Making       | 0.58                         |
-|                    | Operational Oversight             | 0.52                         |
-|                    | Stakeholder Coordination          | 0.49                         |
-|                    | Strategic Planning                | 0.54                         |
-| Doctors            | Collaboration                     | 0.76                         |
-|                    | Direct Care Delivery              | 0.82                         |
-|                    | Professional Development          | 0.72                         |
-|                    | Research and Advocacy             | 0.67                         |
-| **...**            | **...**                           | **...**                      |
+|-------------------|-------------------------------------|------------------------------|
+| Administrators    | Data-Driven Decision-Making        | 0.58                         |
+|                   | Operational Oversight              | 0.52                         |
+|                   | Stakeholder Coordination           | 0.49                         |
+|                   | Strategic Planning                 | 0.54                         |
+| Doctors           | Collaboration                      | 0.76                         |
+|                   | Direct Care Delivery               | 0.82                         |
+|                   | Professional Development           | 0.72                         |
+|                   | Research and Advocacy              | 0.67                         |
 
 ---
 
-## 3. Uptake Rates by Stakeholder
+### 3. Uptake Rates by Stakeholder
 
-### Overall Uptake Rate by Stakeholder
+#### Overall Uptake Rate by Stakeholder
 
 | **Stakeholder**   | **Overall Uptake Rate** |
-|--------------------|-------------------------|
-| Administrators     | 0.54                    |
-| Doctors            | 0.74                    |
-| Nurses             | 0.71                    |
-| Patients           | 0.59                    |
+|-------------------|-------------------------|
+| Administrators    | 0.54                    |
+| Doctors           | 0.74                    |
+| Nurses            | 0.71                    |
+| Patients          | 0.59                    |
 
 ---
 
-## 4. Monthly Uptake Rate Plot
+### 4. Monthly Uptake Rate Plot
 
 A graph showing the aggregated uptake rates for each stakeholder group over the 12-month period.
-
-**Graph Description:**  
-- Highlights trends in uptake rates for stakeholders such as Administrators, Doctors, Nurses, and Patients.  
-- Identifies seasonal or periodic variations for better planning and strategy.
-
 
 ![Monthly Uptake Rate Plot](https://drive.google.com/uc?id=109gvIClIPaZ1rKuUIj57dfTv5ix_-_kk)
 
 ---
 
 ### Summary
+
 This detailed analysis provides actionable insights into:
 - Activity-specific engagement trends to address stakeholder-specific needs.
 - Monthly and overall uptake rates to identify and mitigate barriers to participation.
 - Enhanced strategic planning for improving engagement and uptake.
 
-<!--
-For further information or to contribute to this analysis, please reach out to the KTH team.
--->
-
 ---
 
+## Year Planning
+
+### Year 1: Foundations
+- Conduct literature review.
+- Initiate stakeholder engagement through interviews and surveys.
+- Develop the preliminary SDM framework.
+
+### Year 2: Model Refinement
+- Integrate qualitative findings into SDMs.
+- Incorporate HMMs to account for uncertainty.
+- Conduct participatory workshops for model validation.
+
+### Year 3: Validation
+- Apply models to case studies for final testing and refinement.
+- Generate policy recommendations based on findings and insights.
 
 
+### Year 4: Dissemination
+- Publish findings in peer-reviewed journals.
+- Finalize the participatory modeling framework.
+- Complete and defend the doctoral thesis.
 
+## Significance
 
-**Year Planning**
+This research addresses the challenges of deploying in silico models for healthy aging by incorporating societal complexity through participatory methods. By combining qualitative and quantitative data collection and analysis, the project ensures that these models are not only technically sound but also socially viable and impactful. The results have the potential to revolutionize how healthcare organizations adopt computational tools to enhance patient outcomes and operational efficiency.
 
-**Year 1: Foundations**
-
--   Conduct literature review.
-
--   Initiate stakeholder engagement through interviews and surveys.
-
--   Develop a preliminary SDM framework.
-
-**Year 2: Model Refinement**
-
--   Integrate qualitative findings into SDMs.
-
--   Incorporate HMMs to address uncertainties.
-
--   Conduct participatory workshops to validate the models.
-
-**Year 3: Validation**
-
--   Apply models to case studies at Karolinska University Hospital.
-
--   Refine policies based on validation feedback.
-
--   Test recommendations at VU Amsterdam.
-
-**Year 4: Dissemination**
-
--   Publish findings in peer-reviewed journals.
-
--   Finalize the participatory modeling framework.
-
--   Complete and defend the doctoral thesis.
-
-**Significance**
-
-This research addresses the challenges of deploying *in silico* models
-for healthy aging by incorporating societal complexity through
-participatory methods. By combining qualitative and quantitative data
-collection and analysis, the project ensures that these models are not
-only technically sound but also socially viable and impactful. The
-results have the potential to revolutionize how healthcare organizations
-adopt computational tools to enhance patient outcomes and operational
-efficiency.
-
-"I authorize the processing of my personal data pursuant to art. 13 of
-Legislative Decree no. 196 of 30 June 2003 - \"Personal Data Protection
-Code\" and art. 13 of GDPR 679/16 - \"European Regulation on the
-Protection of Personal Data\".
-
+"I authorize the processing of my personal data pursuant to art. 13 of Legislative Decree no. 196 of 30 June 2003 - "Personal Data Protection Code" and art. 13 of GDPR 679/16 - "European Regulation on the Protection of Personal Data".
 
 Heider Jeffer
 
 26th November 2024
+
+
+  
+
+---
