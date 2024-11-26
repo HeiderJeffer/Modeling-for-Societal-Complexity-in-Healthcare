@@ -1,8 +1,10 @@
 # Project Requirements
 
 1. [Anaconda](https://www.anaconda.com/installation-success?source=installer)
-2. HTML 5
-3. python=3.11
+2. Atlas ti
+3. NVivo
+4. HTML 5
+5. python=3.11
 
 Create enviorment:
 ```
