@@ -26,7 +26,7 @@ The growing complexity of healthcare systems, particularly in addressing aging-r
 
 This research seeks to bridge the gap between advanced computational modeling and real-world healthcare applications by leveraging **participatory modeling**. This collaborative approach engages diverse stakeholders to co-develop models that reflect societal and systemic nuances, ensuring both accuracy and usability.
 
----
+
 
 ## Research Objectives
 
@@ -45,7 +45,7 @@ This research seeks to bridge the gap between advanced computational modeling an
 4. **Evaluate Impact**  
    Measure the effectiveness of participatory modeling in fostering *in silico* model adoption and its effect on healthcare optimization.
 
----
+
 
 ## Research Approach
 
@@ -98,7 +98,6 @@ Each stakeholder plays a critical and interconnected role. Effective engagement 
 - **Strategic Planning**: Designing patient satisfaction initiatives.
 - **Data-Driven Decision-Making**: Analyzing metrics to inform improvements.
 
----
 
 ### Qualitative Data Collection
 
@@ -110,8 +109,6 @@ Each stakeholder plays a critical and interconnected role. Effective engagement 
 
 - **Surveys**: Distribute structured questionnaires to measure attitudes, priorities, and barriers.
 - **Observational Data**: Collect real-world data on workflows, resource allocations, and decision-making.
-
----
 
 ### 3. Model Development
 
@@ -128,22 +125,16 @@ Each stakeholder plays a critical and interconnected role. Effective engagement 
 
 - Map qualitative findings (e.g., resistance themes, collaboration patterns) into model parameters to ensure real-world accuracy.
 
----
-
 ### 4. Validation and Refinement
 
 - **Participatory Feedback**: Present preliminary models to stakeholders and incorporate their feedback.
 - **Case Study Application**: Test models at Karolinska University Hospital.
 - **Triangulated Analysis**: Compare model outputs with qualitative and survey data to validate findings.
 
----
-
 ### 5. Policy Recommendations
 
 - Develop evidence-based policies informed by model simulations and stakeholder insights.
 - Pilot these recommendations during a planned secondment at VU Amsterdam and refine based on further feedback.
-
----
 
 ## Expected Findings
 
@@ -163,21 +154,15 @@ Each stakeholder plays a critical and interconnected role. Effective engagement 
    - Enhanced stakeholder alignment and ownership of *in silico* models.
    - Broader acceptance and implementation of proposed policies.
 
----
-
 # Engagement and Uptake Insights
 
 This document provides an overview of engagement trends, average engagement levels, and uptake rates for various stakeholders over a 12-month period. These insights help in identifying areas of improvement and designing targeted strategies for enhanced participation.
-
----
 
 ### 1. Engagement Trends by Activity
 
 A visual representation of how engagement levels for each activity fluctuate over 12 months.
 
 ![Engagement Trends by Activity](https://drive.google.com/uc?id=109KVc6RpfEXbiYAisPQIXoxx0XvJJWXF)
-
----
 
 ### 2. Average Engagement Levels
 
@@ -194,7 +179,6 @@ A visual representation of how engagement levels for each activity fluctuate ove
 |                   | Professional Development           | 0.72                         |
 |                   | Research and Advocacy              | 0.67                         |
 
----
 
 ### 3. Uptake Rates by Stakeholder
 
@@ -207,7 +191,6 @@ A visual representation of how engagement levels for each activity fluctuate ove
 | Nurses            | 0.71                    |
 | Patients          | 0.59                    |
 
----
 
 ### 4. Monthly Uptake Rate Plot
 
@@ -215,16 +198,12 @@ A graph showing the aggregated uptake rates for each stakeholder group over the 
 
 ![Monthly Uptake Rate Plot](https://drive.google.com/uc?id=109gvIClIPaZ1rKuUIj57dfTv5ix_-_kk)
 
----
-
 ### Summary
 
 This detailed analysis provides actionable insights into:
 - Activity-specific engagement trends to address stakeholder-specific needs.
 - Monthly and overall uptake rates to identify and mitigate barriers to participation.
 - Enhanced strategic planning for improving engagement and uptake.
-
----
 
 ## Year Planning
 
@@ -242,7 +221,6 @@ This detailed analysis provides actionable insights into:
 - Apply models to case studies for final testing and refinement.
 - Generate policy recommendations based on findings and insights.
 
-
 ### Year 4: Dissemination
 - Publish findings in peer-reviewed journals.
 - Finalize the participatory modeling framework.
@@ -252,6 +230,7 @@ This detailed analysis provides actionable insights into:
 
 This research addresses the challenges of deploying in silico models for healthy aging by incorporating societal complexity through participatory methods. By combining qualitative and quantitative data collection and analysis, the project ensures that these models are not only technically sound but also socially viable and impactful. The results have the potential to revolutionize how healthcare organizations adopt computational tools to enhance patient outcomes and operational efficiency.
 
+---
 
 "I authorize the processing of my personal data pursuant to art. 13 of Legislative Decree no. 196 of 30 June 2003 - "Personal Data Protection Code" and art. 13 of GDPR 679/16 - "European Regulation on the Protection of Personal Data".
 
