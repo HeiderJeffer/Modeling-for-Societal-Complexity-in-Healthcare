@@ -1,8 +1,8 @@
-**Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare**
+# Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare
 
-By Heider Jeffer
+*By Heider Jeffer*
 
-**1. Introduction**
+# 1. Introduction
 
 The healthcare sector is an intricate system characterized by numerous
 stakeholders with varying objectives and constraints. Stakeholder
@@ -13,7 +13,7 @@ computational simulations to explore and improve stakeholder engagement
 dynamics, enabling actionable insights into healthcare policy and
 strategy development.
 
-**2. Research Objectives**
+# 2. Research Objectives
 
 1.  **Model Stakeholder Engagement Dynamics**: Develop and validate a
     simulation framework to capture engagement patterns across
@@ -27,7 +27,7 @@ strategy development.
     simulations and descriptive analyses to offer insights into
     healthcare system dynamics.
 
-**3. Methodology**
+# 3. Methodology
 
 This project integrates participatory modelling principles with
 computational tools to achieve its objectives. The key components
@@ -83,7 +83,7 @@ challenges and improvement opportunities. For instance:
 -   **Stakeholder-specific trends**: Tailored strategies based on unique
     stakeholder behaviors.
 
-**4. Expected Outcomes**
+# 4. Expected Outcomes
 
 1.  **Validated Simulation Model**: A robust, participatory model of
     stakeholder engagement dynamics in healthcare.
@@ -97,7 +97,7 @@ challenges and improvement opportunities. For instance:
 4.  **Enhanced Stakeholder Collaboration**: Practical methods to foster
     collaboration and increase trust in in silico model applications.
 
-**5. Innovative Contributions**
+# 5. Innovative Contributions
 
 -   **Participatory Modelling at Scale**: Combining computational
     simulations with stakeholder-driven inputs.
@@ -108,7 +108,7 @@ challenges and improvement opportunities. For instance:
 -   **Focus on Healthy Aging**: Aligned with **InSilicoHealth**'s
     mission, this research emphasizes societal benefits.
 
-**6. Preliminary Results**
+# 6. Preliminary Results
 
 Initial simulation experiments demonstrate the capability to model
 engagement variations, offering insights into:
@@ -125,7 +125,7 @@ different stakeholders, showing trends, peaks, and declines. The
 qualitative analysis further enriches these findings by identifying root
 causes and actionable recommendations.
 
-**7. Conclusion**
+# 7. Conclusion
 
 This research bridges the gap between theoretical participatory
 modelling and practical healthcare policy design. By addressing the
@@ -133,9 +133,9 @@ complexities of stakeholder dynamics, it aims to foster effective
 adoption of in silico models, paving the way for better healthcare
 outcomes and policy development.
 
-**Year Planning**
+# Year Planning
 
-**Year 1: Foundations and Model Development**
+### **Year 1: Foundations and Model Development**
 
 -   **Literature Review**:\
     Conduct a comprehensive review of participatory modelling,
@@ -155,7 +155,7 @@ outcomes and policy development.
     Run initial simulations to test model assumptions and refine
     parameters.
 
-**Year 2: Advanced Modelling and Stakeholder Input**
+### **Year 2: Advanced Modelling and Stakeholder Input**
 
 -   **Model Refinement**:\
     Incorporate findings from initial simulations. Add dynamic variables
@@ -175,7 +175,7 @@ outcomes and policy development.
     feedback to identify engagement trends and validate the model's
     predictive accuracy.
 
-**Year 3: Real-World Validation and Policy Integration**
+### **Year 3: Real-World Validation and Policy Integration**
 
 -   **Secondment at Karolinska University Hospital (4 Months)**:\
     Test the model in a real-world healthcare setting, collect data on
@@ -194,7 +194,7 @@ outcomes and policy development.
     Publish findings on model development and initial results in
     peer-reviewed journals.
 
-**Year 4: Dissemination and Impact**
+### **Year 4: Dissemination and Impact**
 
 -   **Longitudinal Simulations**:\
     Run extended simulations to assess the long-term impact of proposed
@@ -212,7 +212,9 @@ outcomes and policy development.
     Submit and defend the doctoral thesis. Present results at
     international conferences and seminars.
 
-I authorize the processing of my personal data pursuant to art. 13 of
+---
+
+"I authorize the processing of my personal data pursuant to art. 13 of
 Legislative Decree no. 196 of 30 June 2003 - \"Personal Data Protection
 Code\" and art. 13 of GDPR 679/16 - \"European Regulation on the
 Protection of Personal Data\".
@@ -220,3 +222,6 @@ Protection of Personal Data\".
 **Heider Jeffer**
 
 **26th November, 2024**
+
+---
+3
