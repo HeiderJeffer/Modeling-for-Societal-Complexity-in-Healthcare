@@ -33,7 +33,7 @@ This project integrates participatory modelling principles with
 computational tools to achieve its objectives. The key components
 include:
 
-**3.1 Dynamic Simulation Framework**
+### **3.1 Dynamic Simulation Framework**
 
 Using **Python**, a simulation model will be developed to evaluate
 engagement levels of four primary stakeholders: **Patients**,
@@ -53,7 +53,7 @@ def simulate_activity_engagement(stakeholders, months=12, fluctuation=0.05):
 
 ```
 
-**3.2 Visualization and Insights**
+### **3.2 Visualization and Insights**
 
 Data visualization tools (e.g., Matplotlib, Seaborn) will highlight
 trends and fluctuations, enabling stakeholders to assess engagement
@@ -64,7 +64,7 @@ stability, uptake rates, and potential gaps.
 
 -   **Bar charts** to compare average engagement across stakeholders.
 
-**3.3 Secondment Integration**
+### **3.3 Secondment Integration**
 
 -   **VU Amsterdam**: Refine the model with advanced insights into
     sociotechnical dynamics.
@@ -72,7 +72,7 @@ stability, uptake rates, and potential gaps.
 -   **Karolinska University Hospital**: Validate the model within
     real-world operational contexts.
 
-**3.4 Qualitative Analysis**
+### **3.4 Qualitative Analysis**
 
 A structured analysis interprets engagement patterns, identifying key
 challenges and improvement opportunities. For instance:
