@@ -1,22 +1,35 @@
-# Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare
+**Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare**
 
-*Developed using Python by Heider Jeffer*
+*by Heider Jeffer*
 
-# Summary
+
+**Explore Our Resources:**
+- [Research proposal]()
+- [Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)
+- [Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)
+- [Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)
+- [Research Questions](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Research%20Questions.pdf)
+- [Appendix: Formulas, Examples, Simulation Steps](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/appendix%20.pdf)
+- [Software Requirements](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Requirements.txt)
+
+We encourage you to explore, experiment, and share your thoughts with us!
+
+
+**Summary**
 
 We're excited to share our work on **participatory modeling for societal complexity in healthcare**. This project leverages participatory modeling techniques to address the complexities of healthcare systems. The code is designed for scalability and flexibility, allowing for easy expansion and adaptation to evolving needs.
 
 This project combines **quantitative** and **qualitative** analysis to simulate and evaluate stakeholder engagement in healthcare systems. It models engagement levels for various activities across key stakeholder groups—patients, doctors, nurses, and administrators—over time, and provides insights using both data-driven metrics and expert interpretation.
 
-## Key features of the project include:
+***Key features of the project include:***
 
-### Quantitative Analysis:
+***Quantitative Analysis:***
 
 - **Engagement Simulation**: The project simulates monthly fluctuations in engagement levels for each stakeholder and activity, generating a time series of engagement data.
 - **Statistical Metrics**: The mean engagement levels for each stakeholder and activity are calculated to quantify overall performance, as well as the consistency of engagement over time.
 - **Visualizations**: Graphical representations, including line plots of engagement trends and stakeholder comparisons, provide clear insights into engagement patterns.
 
-### Qualitative Analysis:
+***Qualitative Analysis:***
 
 - **Stakeholder Insights**: The project interprets quantitative data by identifying trends in engagement for each stakeholder, offering qualitative insights into whether certain stakeholders show positive or negative engagement.
 - **Key Activity Identification**: It highlights activities with lower-than-average engagement, suggesting areas that may require improvement or additional focus.
@@ -26,16 +39,7 @@ By merging both **quantitative** metrics (e.g., average engagement levels, uptak
 
 This project follows a **cutting-edge, rolling release model**, with regular updates that continuously enhance the functionality and performance of the applications. It is designed to be scalable and flexible, enabling easy adaptation to evolving needs in healthcare systems.
 
-## Explore Our Resources:
 
-- [Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)
-- [Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)
-- [Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)
-- [Research Questions](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Research%20Questions.pdf)
-- [Appendix: Formulas, Examples, Simulation Steps](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/appendix%20.pdf)
-- [Software Requirements](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Requirements.txt)
-
-We encourage you to explore, experiment, and share your thoughts with us!
 
 ## Introduction
 
@@ -222,24 +226,70 @@ This detailed analysis provides actionable insights into:
 
 ## Year Planning
 
-### Year 1: Foundations
-- Conduct literature review.
-- Initiate stakeholder engagement through interviews and surveys.
-- Develop the preliminary SDM framework.
+### **Year 1: Foundations and Model Development**
+- **Literature Review**:  
+  - Conduct a comprehensive review of participatory modelling, stakeholder engagement, and in silico models in healthcare.
+  - Identify key factors affecting engagement and develop a conceptual framework.
+  
+- **Initial Model Design**:  
+  - Develop the first iteration of the stakeholder engagement simulation framework in Python.  
+  - Define stakeholder groups, activities, and engagement metrics.
 
-### Year 2: Model Refinement
-- Integrate qualitative findings into SDMs.
-- Incorporate HMMs to account for uncertainty.
-- Conduct participatory workshops for model validation.
+- **Data Collection**:  
+  - Collaborate with healthcare institutions to gather baseline data on stakeholder activities and engagement.  
 
-### Year 3: Validation
-- Apply models to case studies for final testing and refinement.
-- Generate policy recommendations based on findings and insights.
+- **Preliminary Simulations**:  
+  - Run initial simulations to test model assumptions and refine parameters.
 
-### Year 4: Dissemination
-- Publish findings in peer-reviewed journals.
-- Finalize the participatory modeling framework.
-- Complete and defend the doctoral thesis.
+### **Year 2: Advanced Modelling and Stakeholder Input**
+- **Model Refinement**:  
+  - Incorporate insights from preliminary simulations into the model.  
+  - Add dynamic variables for external factors, such as policy changes and resource availability.
+
+- **Secondment at VU Amsterdam (6 Months)**:  
+  - Deep dive into social and institutional dynamics in healthcare organizations.  
+  - Validate model assumptions and parameters against empirical data.
+
+- **Stakeholder Engagement Workshops**:  
+  - Organize participatory workshops to gather qualitative insights and co-create solutions with stakeholders.
+
+- **Simulation Testing**:  
+  - Conduct detailed simulations based on refined data and stakeholder input.  
+  - Identify engagement trends and validate the model’s predictive capability.
+
+### **Year 3: Real-World Validation and Policy Integration**
+- **Secondment at Karolinska University Hospital (4 Months)**:  
+  - Embed the model in a real-world healthcare setting.  
+  - Collect data on the adoption of in silico models and stakeholder interactions.
+
+- **Validation and Scaling**:  
+  - Validate the model with real-world data and refine it for scalability.  
+  - Develop strategies for addressing fluctuating engagement levels.
+
+- **Policy Recommendations**:  
+  - Draft preliminary recommendations for improving stakeholder engagement and technology adoption.
+
+- **Collaborative Publications**:  
+  - Publish findings in peer-reviewed journals, focusing on model development and initial results.
+
+### **Year 4: Dissemination and Impact**
+- **Longitudinal Simulations**:  
+  - Run extended simulations to assess the long-term impact of proposed strategies.  
+  - Explore “what-if” scenarios for different policy interventions.
+
+- **Stakeholder Training**:  
+  - Develop training materials and workshops for healthcare practitioners and administrators to use the model.
+
+- **Final Reports and Policy Briefs**:  
+  - Compile a comprehensive report summarizing findings and actionable insights.  
+  - Deliver policy briefs to stakeholders and policymakers.
+
+- **PhD Defense and Final Dissemination**:  
+  - Submit and defend the doctoral thesis.  
+  - Present findings at international conferences and seminars.
+
+---
+
 
 ### Significance
 
