@@ -1,4 +1,4 @@
-**Research Questions**
+# **Research Questions**
 
 *By Heider Jeffer*
 
@@ -7,14 +7,14 @@ interactions and contributions within a participatory modeling
 framework, providing answers to the primary and secondary research
 questions explored in this project.
 
-**Primary Research Question:**
+## **Primary Research Question:**
 
 -   **How can participatory modeling approaches be designed to simulate
     and address stakeholder interactions, agency complexities, and
     decision-making processes in the adoption of in silico models for
     healthcare systems?**
 
-**Secondary Research Questions:**
+## **Secondary Research Questions:**
 
 1.  **How can simulation techniques be used to capture and analyze the
     interplay of diverse stakeholders in the healthcare ecosystem?**
@@ -59,7 +59,7 @@ questions explored in this project.
         insights, demonstrating how simulation frameworks can inform
         policy-making and optimize in silico model deployment.
 
-**Ethical and Broader Considerations Addressed:**
+## **Ethical and Broader Considerations Addressed:**
 
 -   **How can simulation frameworks ensure equitable representation and
     collaboration among diverse stakeholders?**
