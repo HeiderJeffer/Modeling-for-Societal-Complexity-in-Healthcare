@@ -219,5 +219,5 @@ Protection of Personal Data\".
 
 **Heider Jeffer**
 
-**\
-26^th^ November, 2024**
+
+**26th November, 2024**
