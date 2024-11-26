@@ -1,9 +1,9 @@
-**Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare**
+# **Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare**
 
 *by Heider Jeffer*
 
 ---
-Hello and welcome!
+# Hello and welcome!
 
 We're excited to share our work on participatory modeling for societal complexity in healthcare.
 
