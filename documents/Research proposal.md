@@ -1,8 +1,8 @@
 **Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare**
 
-By Heider Jeffer
+*By Heider Jeffer*
 
-**1. Introduction**
+#1. Introduction
 
 The healthcare sector is an intricate system characterized by numerous
 stakeholders with varying objectives and constraints. Stakeholder
@@ -13,7 +13,7 @@ computational simulations to explore and improve stakeholder engagement
 dynamics, enabling actionable insights into healthcare policy and
 strategy development.
 
-**2. Research Objectives**
+#2. Research Objectives
 
 1.  **Model Stakeholder Engagement Dynamics**: Develop and validate a
     simulation framework to capture engagement patterns across
@@ -27,7 +27,7 @@ strategy development.
     simulations and descriptive analyses to offer insights into
     healthcare system dynamics.
 
-**3. Methodology**
+#3. Methodology
 
 This project integrates participatory modelling principles with
 computational tools to achieve its objectives. The key components
