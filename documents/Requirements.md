@@ -1,31 +1,58 @@
 # Project Requirements
 
-1. Anaconda
+1. [Anaconda](https://www.anaconda.com/installation-success?source=installer)
 2. HTML 5
 3. python=3.11
 
 Create enviorment:
-
+```
 conda create -n project11 python=3.11 ipykernel -y
-
+```
+```
 conda activate project11
+```
 
+CMD run:
+
+```
 jupyter-lab
-jupyter notebook
+```
 
+or
+
+```
+jupyter notebook
+```
 
 Linux Upgrade PIP:
+
+```
+sudo apt update
+```
+
+```
+sudo apt upgrade -y
+```
+
+```
+sudo apt install pip
+```
+
+```
 python -m pip install -–upgrade pip
+```
 
 Windows upgrade PIP:
+```
 python.exe -m pip install --upgrade pip
-
+```
 
 
 
 
 
 Copy/paste the following:
+
 ```
 pip install alpha_vantage
 pip install yfinance
