@@ -1,8 +1,12 @@
 # Participatory Modeling for Societal Complexity in Healthcare  
-*By Heider Jeffer*
+*Developed using Python by Heider Jeffer*
 
 ## Welcome!  
 We're excited to share our work on participatory modeling for societal complexity in healthcare.
+
+This project leverages participatory modeling techniques to address the complexities of healthcare systems. The code is designed for scalability and flexibility, allowing for easy expansion and adaptation to evolving needs.
+
+It follows a cutting-edge, rolling release model, with regular updates that continuously enhance the functionality and performance of the applications.
 
 ## Explore Our Resources:
 - [Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)
@@ -14,7 +18,7 @@ We're excited to share our work on participatory modeling for societal complexit
 
 We encourage you to explore, experiment, and share your thoughts with us!
 
----
+
 
 ## Introduction
 
@@ -244,9 +248,10 @@ This detailed analysis provides actionable insights into:
 - Finalize the participatory modeling framework.
 - Complete and defend the doctoral thesis.
 
-## Significance
+### Significance
 
 This research addresses the challenges of deploying in silico models for healthy aging by incorporating societal complexity through participatory methods. By combining qualitative and quantitative data collection and analysis, the project ensures that these models are not only technically sound but also socially viable and impactful. The results have the potential to revolutionize how healthcare organizations adopt computational tools to enhance patient outcomes and operational efficiency.
+
 
 "I authorize the processing of my personal data pursuant to art. 13 of Legislative Decree no. 196 of 30 June 2003 - "Personal Data Protection Code" and art. 13 of GDPR 679/16 - "European Regulation on the Protection of Personal Data".
 
