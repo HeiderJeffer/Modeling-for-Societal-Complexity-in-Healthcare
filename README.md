@@ -1,7 +1,13 @@
 **Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare**
-
 *by Heider Jeffer*
 
+Hello and welcome!
+
+We're excited to share our work on participatory modeling for societal complexity in healthcare.
+
+This project leverages participatory modeling techniques to address the complexities of healthcare systems. The code is designed for scalability and flexibility, allowing for easy expansion and adaptation to evolving needs.
+
+It follows a cutting-edge, rolling release model, with regular updates that continuously enhance the functionality and performance of the applications.
 
 **Explore Our Resources:**
 - [Research proposal](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/documents/Research%20proposal.pdf)
