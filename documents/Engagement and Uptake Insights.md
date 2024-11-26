@@ -1,5 +1,7 @@
 # Engagement and Uptake Insights
 
+*By Heider Jeffer*
+
 This document provides an overview of engagement trends, average engagement levels, and uptake rates for various stakeholders over a 12-month period. These insights help in identifying areas of improvement and designing targeted strategies for enhanced participation.
 
 ---
