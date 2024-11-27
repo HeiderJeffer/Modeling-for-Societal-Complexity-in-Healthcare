@@ -56,6 +56,7 @@ python.exe -m pip install --upgrade pip
 Copy/paste the following:
 
 ```
+pip install pomegranate
 pip install hmmlearn
 pip install wordcloud
 pip install alpha_vantage
