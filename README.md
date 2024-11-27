@@ -21,13 +21,14 @@ We encourage you to explore, experiment, and share your thoughts with us!
 - [Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)
 - [Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Software/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)
 - [Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Quantitative%20and%20Qualitative%20Analysis%20of%20Stakeholder%20Engagement%20Simulation.md)
-- [Explanation of the Python Code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md)
+ 
 - [Research Questions](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Research%20Questions.md)
+  
 [Appendix: Formulas, Examples, Simulation Steps](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/appendix%20.pdf)
+
 - [Requirements](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Requirements.md)
 
-### Explanation of the Python Code
-#### Contents
+### Explanation of the Python Code:
 - [Part 1: Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-1-quantitative-and-qualitative-analysis-of-stakeholder-engagement-simulation)
 - [Part 2: Engagement and Uptake Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-2-engagement-and-uptake-insights)
 - [Part 3: Statistical Distribution Representing the Stakeholders and Their Activities](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-3-statistical-distribution-representing-the-stakeholders-and-their-activities)
