@@ -1,6 +1,10 @@
 # Explanation of the Python Code
 *By Heider Jeffer*
 
+## Contents
+1. [Part 1: Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-1-quantitative-and-qualitative-analysis-of-stakeholder-engagement-simulation)
+2. [Engagement and Uptake Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Engagement%20and%20Uptake%20Insights.md#engagement-and-uptake-insights)
+3. [Part 2: Statistical Distribution Representing the Stakeholders and Their Activities](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-2-statistical-distribution-representing-the-stakeholders-and-their-activities)
 
 
 # Part 1: Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation
