@@ -1,4 +1,4 @@
-### **Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare**
+### Participatory Modeling for Societal Complexity in Healthcare
 
 *by Heider Jeffer*
 
