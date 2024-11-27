@@ -114,10 +114,11 @@ The `qualitative_analysis` function:
 #### Key Activities for Improvement:
 - Highlights activities with average engagement < 0.6, suggesting focus areas.
 
----
 
 ## 5. Usage
+
 ### Simulation
+
 The simulation runs for 12 months by default. You can adjust months for a different timeframe:
 
 ```Python
@@ -126,7 +127,6 @@ df_activity_engagement = simulate_activity_engagement(stakeholders, months=month
 ### Outputs
 - Plots: Show engagement trends and stakeholder uptake over time.
 - Printed Analysis: Provides actionable insights about trends, stakeholder performance, and activity improvement.
-
 
 
 ## 6. Expandable Design
@@ -142,8 +142,6 @@ df_activity_engagement = simulate_activity_engagement(stakeholders, months=month
 
 This code is an excellent example of integrating data science tools (like pandas and seaborn) with healthcare management applications for informed decision-making.
  
-
-
 # Part 2: Statistical Distribution Representing the Stakeholders and Their Activities
 
  To design a statistical distribution representing the stakeholders and their activities, we can approach it in the following structured steps:
@@ -227,4 +225,5 @@ plt.show()
 ## Additional Insights (Optional):
 - Overlay KDE or Histogram: For an individual stakeholder's activities, plot engagement levels as a density curve or histogram for better insight into engagement trends.
 - Heatmap: Create a heatmap showing average engagement levels for stakeholders and activities.
+
 
