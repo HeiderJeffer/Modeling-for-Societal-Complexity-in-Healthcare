@@ -19,6 +19,8 @@ We encourage you to explore, experiment, and share your thoughts with us!
 
 - [Markov Chain-Based Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare](https://colab.research.google.com/drive/10XOiQYhWYDUiDC-Xc5rdSawtCdbbK6f0?authuser=2#scrollTo=QrGq7LbEDEzP)
 
+- [Simulating and Visualizing Stakeholder Engagement Phases Using Hidden Markov Models](https://colab.research.google.com/drive/10Xhi3mYzLiJCJdsXJZcVIorODaEE8E99?authuser=2)
+
 ### Explore the source code:
 - [Dynamic Simulation and Analysis of Stakeholder Engagement in Healthcare Quantitative and Qualitative Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/software/Healthcare%20Participatory%20Model%20Simulation/Dynamic%20Simulation%20and%20Analysis%20of%20Stakeholder%20Engagement%20in%20Healthcare%20Quantitative%20and%20Qualitative%20Insights.ipynb)
 
