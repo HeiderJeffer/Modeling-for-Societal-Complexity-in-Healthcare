@@ -1,4 +1,4 @@
-# Formulas, Examples, Simulation Steps 
+# Enhancing Real-World Engagement Simulations: Key Components and Their Purpose
 *By Heider Jeffer*
 
 ### 1. Random Fluctuations and Why They Are Used
