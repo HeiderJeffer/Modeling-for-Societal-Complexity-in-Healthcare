@@ -24,6 +24,8 @@ We encourage you to explore, experiment, and share your thoughts with us!
 - [Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Quantitative%20and%20Qualitative%20Analysis%20of%20Stakeholder%20Engagement%20Simulation.md)
 - [Qualitative Analysis of Stakeholder Engagement Simulation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Qualitative%20Analysis%20of%20Stakeholder%20Engagement%20Simulation.md)
 
+- [Statistical Distribution and Boxplot Explanation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Statistical%20Distribution%20and%20Boxplot%20Explanation.md)
+
 - [Statistical Distribution Representing the Stakeholders and Their Activities](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Statistical%20Distribution%20Representing%20the%20Stakeholders%20and%20Their%20Activities.md)
 - [Research proposal](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Research%20proposal.md)
 - [Research Questions](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Research%20Questions.md)
