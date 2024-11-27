@@ -1,4 +1,5 @@
 # Statistical Distribution Representing the Stakeholders and Their Activities
+*By Heider Jeffer*
 
 To design a statistical distribution representing the stakeholders and their activities, we can approach it in the following structured steps:
 
