@@ -65,6 +65,8 @@ plt.suptitle("Engagement Level Distribution for Stakeholders and Their Activitie
 plt.show()
 ```
 
+![Engagement Trends by Activity](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/images/3.png)
+
 ## Explanation of the Visualization:
 
 
