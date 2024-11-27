@@ -4,7 +4,6 @@
 
 The **qualitative analysis** in the code performs a series of interpretative assessments on the simulation results of stakeholder engagement over a period of 12 months. Below is a detailed breakdown of the steps involved in this analysis and the type of output it generates.
 
----
 
 ## **Qualitative Analysis Process:**
 
@@ -27,8 +26,6 @@ The **qualitative analysis** in the code performs a series of interpretative ass
        * Noticeable fluctuation in engagement from 0.45 to 0.55. Consider strategies to stabilize this.
    ```
 
----
-
 ### 2. **Stakeholder Comparison**
    - This compares the average engagement (uptake rate) of each stakeholder across all their activities.
    
@@ -42,8 +39,6 @@ The **qualitative analysis** in the code performs a series of interpretative ass
    - Patients: Below average uptake rate (0.55). This suggests potential areas for further engagement or outreach.
    - Doctors: Above average uptake rate (0.72). This is a positive indicator of stakeholder engagement.
    ```
-
----
 
 ### 3. **Identifying Key Activities for Improvement**
    - The analysis also identifies specific activities that might require more attention based on their average engagement levels across all stakeholders.
@@ -59,8 +54,6 @@ The **qualitative analysis** in the code performs a series of interpretative ass
    - Activity: Direct Care Delivery shows positive engagement levels (0.75).
    ```
 
----
-
 ## **Qualitative Analysis Output Summary:**
 
 After running the qualitative analysis, the output consists of:
@@ -69,7 +62,7 @@ After running the qualitative analysis, the output consists of:
 - **Stakeholder Comparison**: A comparison of the average engagement levels (uptake rates) for each stakeholder, highlighting those below the desired threshold (0.6) and suggesting further outreach for those with low engagement.
 - **Identifying Key Activities for Improvement**: Activities that need attention due to low engagement levels are identified, while those with high engagement are flagged as areas of strength.
 
----
+
 
 ## **Visual Output:**
 
@@ -79,11 +72,15 @@ After running the qualitative analysis, the output consists of:
 
 These qualitative insights are valuable for improving the effectiveness of stakeholder engagement in a healthcare context, pointing to areas that require intervention (e.g., activities with low engagement) and recognizing strengths (e.g., activities with stable or high engagement).
 
+---
 
 **The Output of Qualitative Analysis of Stakeholder Engagement. Developed using Python by Heider Jeffer**
 
+---
 
 ![Engagement Trends by Activity](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/images/4.png)
+
+---
 
 ```Python output:```
 ```Python
