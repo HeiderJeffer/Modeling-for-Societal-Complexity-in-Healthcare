@@ -1,4 +1,4 @@
-# Engagement and Uptake Insights
+# Engagement Dynamics and Stakeholder Uptake: A 12-Month Analysis
 
 *By Heider Jeffer*
 
