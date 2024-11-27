@@ -79,6 +79,12 @@ After running the qualitative analysis, the output consists of:
 
 These qualitative insights are valuable for improving the effectiveness of stakeholder engagement in a healthcare context, pointing to areas that require intervention (e.g., activities with low engagement) and recognizing strengths (e.g., activities with stable or high engagement).
 
+
+**The Output of Qualitative Analysis of Stakeholder Engagement. Developed using Python by Heider Jeffer**
+
+
+![Engagement Trends by Activity](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/images/4.png)
+
 ```Python output:```
 ```Python
 
