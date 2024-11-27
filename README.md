@@ -16,14 +16,14 @@ We encourage you to explore, experiment, and share your thoughts with us!
 - [Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)
 - [Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Software/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)
 ### Contents:
-- Engagement and Uptake Insights
-- Enhancing Real-World Engagement Simulations Key Components and Their Purpose
+- [Engagement and Uptake Insights](data/documents/Engagement and Uptake Insights.md)
+- [Dynamic Systems Modeling: Exploring Fluctuations, Uptake Rates, and Feedback Loops](data/documents/Dynamic Systems Modeling Exploring Fluctuations, Uptake Rates, and Feedback Loops.md)
 - Explanation of the Python Code
-- Modeling Stakeholder Engagement A Monthly Simulation and Uptake Analysis
-- Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation
-- Research proposal
-- Research Questions
-- Requirements
+- [Modeling Stakeholder Engagement A Monthly Simulation and Uptake Analysis](data/documents/Modeling Stakeholder Engagement A Monthly Simulation and Uptake Analysis.md)
+- [Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](data/documents/Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation.md)
+- [Research proposal](data/documents/Research proposal.md)
+- [Research Questions](data/documents/Research Questions.md)
+- [Requirements](data/documents/Requirements.md)
   
 
 
