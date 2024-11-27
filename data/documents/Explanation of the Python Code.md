@@ -1,10 +1,5 @@
-# Explanation of the Python Code
-*By Heider Jeffer*
-
-### Contents
-- [Part 1: Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-1-quantitative-and-qualitative-analysis-of-stakeholder-engagement-simulation)
-
-# Part 1: Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation
+# Healthcare Stakeholder Engagement Simulator: A Python Tool for Dynamic Modeling and Analysis
+*By Heider Jeffer"
 
 The provided code is a **simulation and analysis tool** for modeling **stakeholder engagement in healthcare**, developed in Python by Heider Jeffer. Below is a breakdown of its components:
 
