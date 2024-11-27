@@ -79,7 +79,8 @@ After running the qualitative analysis, the output consists of:
 
 These qualitative insights are valuable for improving the effectiveness of stakeholder engagement in a healthcare context, pointing to areas that require intervention (e.g., activities with low engagement) and recognizing strengths (e.g., activities with stable or high engagement).
 
-
+```Python output:```
+```Python
 
 Qualitative Analysis:
 
@@ -147,3 +148,4 @@ Identifying Key Activities for Improvement:
   - Activity: Health Literacy shows positive engagement levels (0.65).
   - Activity: Participation in Care has a lower than average engagement (0.55). This might need more attention.
   - Activity: Preventative Care shows positive engagement levels (0.62).
+```
