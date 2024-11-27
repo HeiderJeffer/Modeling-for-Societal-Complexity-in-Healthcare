@@ -1,4 +1,5 @@
-### Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare
+**Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare**
+
 *by Heider Jeffer*
 
 
