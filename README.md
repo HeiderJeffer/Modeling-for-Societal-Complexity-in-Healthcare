@@ -17,7 +17,9 @@ We encourage you to explore, experiment, and share your thoughts with us!
 
 ### Explore the source code
 
-- 
+- [Dynamic Simulation and Analysis of Stakeholder Engagement in Healthcare Quantitative and Qualitative Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/software/Healthcare%20Participatory%20Model%20Simulation/Dynamic%20Simulation%20and%20Analysis%20of%20Stakeholder%20Engagement%20in%20Healthcare%20Quantitative%20and%20Qualitative%20Insights.ipynb)
+
+- [Markov Chain-Based Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/software/Healthcare%20Participatory%20Model%20Simulation/Markov%20Chain-Based%20Dynamic%20Stakeholder%20Engagement%20Simulation%20and%20Analysis%20in%20Healthcare.ipynb)
 
 ### Contents:
 - [Engagement Dynamics and Stakeholder Uptake: A 12-Month Analysis](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Engagement%20Dynamics%20and%20Stakeholder%20Uptake%20A%2012-Month%20Analysis.md)
