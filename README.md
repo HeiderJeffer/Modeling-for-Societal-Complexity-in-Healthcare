@@ -2,7 +2,6 @@
 
 *by Heider Jeffer*
 
-
 ### Hello and welcome!
 We're excited to share our work on participatory modeling for societal complexity in healthcare.
 
@@ -26,6 +25,18 @@ We encourage you to explore, experiment, and share your thoughts with us!
 - [Part 1: Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-1-quantitative-and-qualitative-analysis-of-stakeholder-engagement-simulation)
 - [Part 2: Engagement and Uptake Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-2-engagement-and-uptake-insights)
 - [Part 3: Statistical Distribution Representing the Stakeholders and Their Activities](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-3-statistical-distribution-representing-the-stakeholders-and-their-activities)
+
+- Engagement and Uptake Insights.md
+- Enhancing Real-World Engagement Simulations Key Components and Their Purpose.md
+- Explanation of the Python Code.md
+- Modeling Stakeholder Engagement A Monthly Simulation and Uptake Analysis.md
+- Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation.md
+
+- Research proposal.md
+- Research Questions.md
+- Requirements.md
+  
+
 
 ---
 
