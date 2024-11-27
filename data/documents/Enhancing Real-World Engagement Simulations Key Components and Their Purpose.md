@@ -1,4 +1,4 @@
-# Formulas, Examples, Simulation Steps 
+# Dynamic Systems Modeling: Exploring Fluctuations, Uptake Rates, and Feedback Loops
 *By Heider Jeffer*
 
 ### 1. Random Fluctuations and Why They Are Used
