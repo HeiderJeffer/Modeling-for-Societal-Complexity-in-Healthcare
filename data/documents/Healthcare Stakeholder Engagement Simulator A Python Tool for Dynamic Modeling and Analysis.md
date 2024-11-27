@@ -1,5 +1,5 @@
 # Healthcare Stakeholder Engagement Simulator: A Python Tool for Dynamic Modeling and Analysis
-*By Heider Jeffer"
+*By Heider Jeffer*
 
 The provided code is a **simulation and analysis tool** for modeling **stakeholder engagement in healthcare**, developed in Python by Heider Jeffer. Below is a breakdown of its components:
 
