@@ -13,10 +13,13 @@ We encourage you to explore, experiment, and share your thoughts with us!
 
 ### Explore Our Resources:
 - [Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)
-- [Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)
 
-### Explore the source code
+### Try it out on Google Colab:
+- [Dynamic Simulation and Analysis of Stakeholder Engagement in Healthcare Quantitative and Qualitative Insights](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2#scrollTo=Pj6BZsWqDA2k)
 
+- [Markov Chain-Based Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare](https://colab.research.google.com/drive/10XOiQYhWYDUiDC-Xc5rdSawtCdbbK6f0?authuser=2#scrollTo=QrGq7LbEDEzP)
+
+### Explore the source code:
 - [Dynamic Simulation and Analysis of Stakeholder Engagement in Healthcare Quantitative and Qualitative Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/software/Healthcare%20Participatory%20Model%20Simulation/Dynamic%20Simulation%20and%20Analysis%20of%20Stakeholder%20Engagement%20in%20Healthcare%20Quantitative%20and%20Qualitative%20Insights.ipynb)
 
 - [Markov Chain-Based Dynamic Stakeholder Engagement Simulation and Analysis in Healthcare](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/software/Healthcare%20Participatory%20Model%20Simulation/Markov%20Chain-Based%20Dynamic%20Stakeholder%20Engagement%20Simulation%20and%20Analysis%20in%20Healthcare.ipynb)
