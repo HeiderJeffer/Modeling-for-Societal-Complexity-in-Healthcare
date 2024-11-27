@@ -1,4 +1,4 @@
-# Appendix 
+# Formulas, Examples, Simulation Steps 
 *By Heider Jeffer*
 
 ### 1. Random Fluctuations and Why They Are Used
