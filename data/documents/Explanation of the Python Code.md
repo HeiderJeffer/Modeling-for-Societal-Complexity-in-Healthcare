@@ -9,7 +9,7 @@ The provided code is a **simulation and analysis tool** for modeling **stakehold
 
 ---
 
-# 1. Stakeholders and Activities Initialization
+## 1. Stakeholders and Activities Initialization
 
 The `stakeholders` dictionary defines:
 - **Four types of stakeholders** (`Patients`, `Doctors`, `Nurses`, `Administrators`).
