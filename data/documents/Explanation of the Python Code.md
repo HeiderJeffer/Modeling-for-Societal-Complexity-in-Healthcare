@@ -183,44 +183,6 @@ A visual representation of how engagement levels for each activity fluctuate ove
 
 ---
 
-## 3. Uptake Rates by Stakeholder
-
-### Overall Uptake Rate by Stakeholder
-
-| **Stakeholder**   | **Overall Uptake Rate** |
-|--------------------|-------------------------|
-| Administrators     | 0.54                    |
-| Doctors            | 0.74                    |
-| Nurses             | 0.71                    |
-| Patients           | 0.59                    |
-
----
-
-## 4. Monthly Uptake Rate Plot
-
-A graph showing the aggregated uptake rates for each stakeholder group over the 12-month period.
-
-**Graph Description:**  
-- Highlights trends in uptake rates for stakeholders such as Administrators, Doctors, Nurses, and Patients.  
-- Identifies seasonal or periodic variations for better planning and strategy.
-
-
-![Monthly Uptake Rate Plot](https://drive.google.com/uc?id=109gvIClIPaZ1rKuUIj57dfTv5ix_-_kk)
-
----
-
-### Summary
-This detailed analysis provides actionable insights into:
-- Activity-specific engagement trends to address stakeholder-specific needs.
-- Monthly and overall uptake rates to identify and mitigate barriers to participation.
-- Enhanced strategic planning for improving engagement and uptake.
-
-<!--
-For further information or to contribute to this analysis, please reach out to the KTH team.
--->
-
----
-
 
  
 # Part 3: Statistical Distribution Representing the Stakeholders and Their Activities
