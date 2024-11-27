@@ -14,7 +14,10 @@ We encourage you to explore, experiment, and share your thoughts with us!
 ### Explore Our Resources:
 - [Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)
 - [Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)
-- [Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Software/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)
+
+### Explore the source code
+
+- 
 
 ### Contents:
 - [Engagement Dynamics and Stakeholder Uptake: A 12-Month Analysis](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Engagement%20Dynamics%20and%20Stakeholder%20Uptake%20A%2012-Month%20Analysis.md)
