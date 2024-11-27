@@ -17,7 +17,7 @@ We encourage you to explore, experiment, and share your thoughts with us!
 - [Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Software/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)
 
 ### Contents:
-- [Engagement and Uptake Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Engagement%20and%20Uptake%20Insights.md)
+- [Engagement Dynamics and Stakeholder Uptake: A 12-Month Analysis]()
 - [Dynamic Systems Modeling: Exploring Fluctuations, Uptake Rates, and Feedback Loops](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Dynamic%20Systems%20Modeling%20Exploring%20Fluctuations%2C%20Uptake%20Rates%2C%20and%20Feedback%20Loops.md)
 - [Explanation of the Python Code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md)
 - [Modeling Stakeholder Engagement A Monthly Simulation and Uptake Analysis](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Modeling%20Stakeholder%20Engagement%20A%20Monthly%20Simulation%20and%20Uptake%20Analysis.md)
