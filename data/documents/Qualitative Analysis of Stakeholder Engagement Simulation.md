@@ -2,6 +2,85 @@
 
 *By Heider Jeffer*
 
+The **qualitative analysis** in the code performs a series of interpretative assessments on the simulation results of stakeholder engagement over a period of 12 months. Below is a detailed breakdown of the steps involved in this analysis and the type of output it generates.
+
+---
+
+## **Qualitative Analysis Process:**
+
+### 1. **Stakeholder Engagement Trends**
+   - For each stakeholder (Patients, Doctors, Nurses, Administrators), the analysis explores how engagement with various activities (e.g., "Participation in Care", "Feedback and Communication") fluctuates over time.
+   
+   **Key Points**:
+   - The average engagement for each activity is extracted.
+   - Fluctuations in engagement are highlighted. If the engagement level for an activity fluctuates by more than 0.1 (i.e., there is a significant variation between the maximum and minimum engagement values for the activity), it’s flagged as needing attention. The code suggests strategies to stabilize these fluctuations.
+   - For activities with stable engagement (small fluctuations), the code remarks that the engagement is fairly steady.
+
+   **Output Example**:
+   ```
+   Stakeholder Engagement Trends:
+   
+   Patients:
+     - Participation in Care: Avg Engagement = 0.60
+       * Engagement is fairly stable for this activity.
+     - Feedback and Communication: Avg Engagement = 0.50
+       * Noticeable fluctuation in engagement from 0.45 to 0.55. Consider strategies to stabilize this.
+   ```
+
+---
+
+### 2. **Stakeholder Comparison**
+   - This compares the average engagement (uptake rate) of each stakeholder across all their activities.
+   
+   **Key Points**:
+   - Stakeholders with an average uptake rate below 0.6 are considered to have potential areas for improvement in engagement. 
+   - Stakeholders with an average uptake rate above 0.6 are viewed positively, suggesting good engagement.
+   
+   **Output Example**:
+   ```
+   Comparison of Stakeholder Engagement Levels:
+   - Patients: Below average uptake rate (0.55). This suggests potential areas for further engagement or outreach.
+   - Doctors: Above average uptake rate (0.72). This is a positive indicator of stakeholder engagement.
+   ```
+
+---
+
+### 3. **Identifying Key Activities for Improvement**
+   - The analysis also identifies specific activities that might require more attention based on their average engagement levels across all stakeholders.
+   
+   **Key Points**:
+   - Activities with an average engagement rate below 0.6 are flagged for improvement.
+   - Activities with positive engagement (average above 0.6) are noted as having a healthy level of engagement.
+   
+   **Output Example**:
+   ```
+   Identifying Key Activities for Improvement:
+   - Activity: Participation in Care has a lower than average engagement (0.58). This might need more attention.
+   - Activity: Direct Care Delivery shows positive engagement levels (0.75).
+   ```
+
+---
+
+## **Qualitative Analysis Output Summary:**
+
+After running the qualitative analysis, the output consists of:
+
+- **Stakeholder Engagement Trends**: A detailed examination of how each stakeholder's engagement with different activities evolves, including observations on fluctuations.
+- **Stakeholder Comparison**: A comparison of the average engagement levels (uptake rates) for each stakeholder, highlighting those below the desired threshold (0.6) and suggesting further outreach for those with low engagement.
+- **Identifying Key Activities for Improvement**: Activities that need attention due to low engagement levels are identified, while those with high engagement are flagged as areas of strength.
+
+---
+
+## **Visual Output:**
+
+- **Engagement Trends**: A line plot visualizes how the engagement levels for different activities fluctuate over the months.
+- **Uptake Rates**: A second plot shows how each stakeholder's overall engagement changes monthly, helping to visualize trends in uptake over time.
+- **Distribution of Engagement**: Boxplots provide a summary of engagement distribution for each stakeholder, showing the spread of engagement across different activities, helping to visually identify where fluctuations occur.
+
+These qualitative insights are valuable for improving the effectiveness of stakeholder engagement in a healthcare context, pointing to areas that require intervention (e.g., activities with low engagement) and recognizing strengths (e.g., activities with stable or high engagement).
+
+
+
 Qualitative Analysis:
 
 Stakeholder Engagement Trends:
