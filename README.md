@@ -26,14 +26,10 @@ We encourage you to explore, experiment, and share your thoughts with us!
 - [Research Questions](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Research%20Questions.md)
 - [Requirements](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Requirements.md)
   
-
-
 ---
-
 "I authorize the processing of my personal data pursuant to art. 13 of Legislative Decree no. 196 of 30 June 2003 - "Personal Data Protection Code" and art. 13 of GDPR 679/16 - "European Regulation on the Protection of Personal Data".
 
 Heider Jeffer
 
 26th November 2024
-
 ---
