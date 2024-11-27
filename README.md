@@ -15,23 +15,16 @@ We encourage you to explore, experiment, and share your thoughts with us!
 - [Discover our project on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)
 - [Try it out on Google Colab](https://colab.research.google.com/drive/105ePLc-icF1qyzUB-VX9SQ446raubosx?authuser=2)
 - [Explore the source code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/Software/Healthcare%20Participatory%20Model%20Simulation/Healthcare%20Participatory%20Model%20Simulation.ipynb)
+
 ### Contents:
-
-- [Engagement and Uptake Insights](data/documents/Engagement and Uptake Insights.md)
-
-- [Dynamic Systems Modeling: Exploring Fluctuations, Uptake Rates, and Feedback Loops](data/documents/Dynamic Systems Modeling Exploring Fluctuations, Uptake Rates, and Feedback Loops.md)
-
-- Explanation of the Python Code
-
-- [Modeling Stakeholder Engagement A Monthly Simulation and Uptake Analysis](data/documents/Modeling Stakeholder Engagement A Monthly Simulation and Uptake Analysis.md)
-
-- [Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](data/documents/Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation.md)
-
-- [Research proposal](data/documents/Research proposal.md)
-  
-- [Research Questions]
-
-- [Requirements](data/documents/Requirements.md)
+- [Engagement and Uptake Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Engagement%20and%20Uptake%20Insights.md)
+- [Dynamic Systems Modeling: Exploring Fluctuations, Uptake Rates, and Feedback Loops](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Dynamic%20Systems%20Modeling%20Exploring%20Fluctuations%2C%20Uptake%20Rates%2C%20and%20Feedback%20Loops.md)
+- [Explanation of the Python Code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md)
+- [Modeling Stakeholder Engagement A Monthly Simulation and Uptake Analysis](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Modeling%20Stakeholder%20Engagement%20A%20Monthly%20Simulation%20and%20Uptake%20Analysis.md)
+- [Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Quantitative%20and%20Qualitative%20Analysis%20of%20Stakeholder%20Engagement%20Simulation.md)
+- [Research proposal](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Research%20proposal.md)
+- [Research Questions](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Research%20Questions.md)
+- [Requirements](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Requirements.md)
   
 
 
