@@ -50,7 +50,7 @@ The `stakeholders` dictionary defines:
 
 Example:
 
-```python
+```Python
 'Patients': {
     'Participation in Care': 0.6,
     'Feedback and Communication': 0.5,
@@ -86,7 +86,7 @@ Example:
 - Shows the average engagement level for each stakeholder over time.
 
 
-# 4. Analysis
+## 4. Analysis
 
 ### a. Average Engagement
 
@@ -116,7 +116,7 @@ The `qualitative_analysis` function:
 
 ---
 
-# 5. Usage
+## 5. Usage
 ### Simulation
 The simulation runs for 12 months by default. You can adjust months for a different timeframe:
 
@@ -129,12 +129,12 @@ df_activity_engagement = simulate_activity_engagement(stakeholders, months=month
 
 
 
-# 6. Expandable Design
+## 6. Expandable Design
 
 - New stakeholders or activities can easily be added to the stakeholders dictionary.
 - Fluctuation, simulation duration, or analysis methods can be tuned for specific scenarios.
 
-# 7. Key Features
+## 7. Key Features
 - Dynamic Simulation: Captures realistic, fluctuating engagement over time.
 - Quantitative & Qualitative Analysis: Combines statistical metrics with interpretive insights.
 - Visualization: Engages users with clear, insightful plots.
