@@ -3,7 +3,6 @@
 
 ### Contents
 - [Part 1: Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-1-quantitative-and-qualitative-analysis-of-stakeholder-engagement-simulation)
-- [Part 2: Engagement and Uptake Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-2-engagement-and-uptake-insights)
 
 # Part 1: Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation
 
@@ -143,47 +142,3 @@ df_activity_engagement = simulate_activity_engagement(stakeholders, months=month
 - Extensibility: Supports evolving healthcare scenarios and requirements.
 
 This code is an excellent example of integrating data science tools (like pandas and seaborn) with healthcare management applications for informed decision-making.
-
-
-# Part 2: Engagement and Uptake Insights
-
-This document provides an overview of engagement trends, average engagement levels, and uptake rates for various stakeholders over a 12-month period. These insights help in identifying areas of improvement and designing targeted strategies for enhanced participation.
-
----
-
-## 1. Engagement Trends by Activity
-A visual representation of how engagement levels for each activity fluctuate over 12 months.
-
-**Graph Description:**  
-- Displays monthly engagement levels for activities like "Direct Care Delivery" (for doctors) and "Data-Driven Decision-Making" (for administrators).  
-- Helps in identifying periods of high and low engagement for better resource allocation.
-
-
-![Engagement Trends by Activity](https://drive.google.com/uc?id=109KVc6RpfEXbiYAisPQIXoxx0XvJJWXF)
-
-
----
-
-## 2. Average Engagement Levels
-
-### Average Engagement Levels by Stakeholder and Activity
-
-| **Stakeholder**   | **Activity**                       | **Average Engagement Level** |
-|--------------------|------------------------------------|------------------------------|
-| Administrators     | Data-Driven Decision-Making       | 0.58                         |
-|                    | Operational Oversight             | 0.52                         |
-|                    | Stakeholder Coordination          | 0.49                         |
-|                    | Strategic Planning                | 0.54                         |
-| Doctors            | Collaboration                     | 0.76                         |
-|                    | Direct Care Delivery              | 0.82                         |
-|                    | Professional Development          | 0.72                         |
-|                    | Research and Advocacy             | 0.67                         |
-| **...**            | **...**                           | **...**                      |
-
----
-
-
- 
-
-
-
