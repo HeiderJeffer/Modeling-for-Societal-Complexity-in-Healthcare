@@ -1,4 +1,4 @@
-# Stakeholder Engagement Trends and Strategies for Improvement A Comprehensive Qualitative Analysis Across Patients, Doctors, Nurses, and Administrators
+# Qualitative Analysis of Stakeholder Engagement Simulation
 
 *By Heider Jeffer*
 
