@@ -3,8 +3,8 @@
 
 ## Contents
 1. [Part 1: Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-1-quantitative-and-qualitative-analysis-of-stakeholder-engagement-simulation)
-2. [Engagement and Uptake Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Engagement%20and%20Uptake%20Insights.md#engagement-and-uptake-insights)
-3. [Part 2: Statistical Distribution Representing the Stakeholders and Their Activities](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-2-statistical-distribution-representing-the-stakeholders-and-their-activities)
+2. [Part2: Engagement and Uptake Insights](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Engagement%20and%20Uptake%20Insights.md#engagement-and-uptake-insights)
+3. [Part 3: Statistical Distribution Representing the Stakeholders and Their Activities](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Explanation%20of%20the%20Python%20Code.md#part-2-statistical-distribution-representing-the-stakeholders-and-their-activities)
 
 
 # Part 1: Quantitative and Qualitative Analysis of Stakeholder Engagement Simulation
@@ -147,7 +147,7 @@ df_activity_engagement = simulate_activity_engagement(stakeholders, months=month
 This code is an excellent example of integrating data science tools (like pandas and seaborn) with healthcare management applications for informed decision-making.
 
 
-# Part2: Engagement and Uptake Insights
+# Part 2: Engagement and Uptake Insights
 
 This document provides an overview of engagement trends, average engagement levels, and uptake rates for various stakeholders over a 12-month period. These insights help in identifying areas of improvement and designing targeted strategies for enhanced participation.
 
