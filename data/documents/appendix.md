@@ -3,26 +3,22 @@
 
 ### 1. Random Fluctuations and Why They Are Used
 
-Reason: Engagement levels in real-world systems (e.g., healthcare participation) are inherently unpredictable and influenced by numerous factors such as personal behavior, external policies, or environmental changes.
+- Reason: Engagement levels in real-world systems (e.g., healthcare participation) are inherently unpredictable and influenced by numerous factors such as personal behavior, external policies, or environmental changes.
 
-Purpose in the Simulation:
+- Purpose in the Simulation:
+  - They introduce variability, making the model more realistic by simulating both increases and decreases in engagement levels over time.
+  - Random fluctuations also allow the model to reflect potential short-term disruptions (e.g., staff shortages, new initiatives).
 
-They introduce variability, making the model more realistic by simulating both increases and decreases in engagement levels over time.
-Random fluctuations also allow the model to reflect potential short-term disruptions (e.g., staff shortages, new initiatives).
-
-Example: If "Patients" engagement starts at 0.6 and fluctuates randomly within [-0.02, +0.02], the variability mimics real-world behaviors such as patients being more engaged during health campaigns and less engaged during holidays.
+- Example: If "Patients" engagement starts at 0.6 and fluctuates randomly within ```[-0.02, +0.02]```, the variability mimics real-world behaviors such as patients being more engaged during health campaigns and less engaged during holidays.
 
 
 ### 2. Uptake Rate and Why It Is Used
-Reason: The uptake rate summarizes the system's overall engagement by averaging the contributions of all stakeholder groups (patients, doctors, nurses, administrators).
-
-Purpose in the Simulation:
-
-It provides a high-level metric to evaluate the program's success.
-By tracking uptake over time, it identifies patterns and trends that can inform decision-making (e.g., whether engagement is improving or declining).
-
-Aggregating individual engagement levels into a single uptake rate is useful for comparing across time or scenarios.
-Example: If engagement for doctors is high but low for administrators, the uptake rate highlights this gap. Monitoring it monthly ensures timely adjustments.
+- Reason: The uptake rate summarizes the system's overall engagement by averaging the contributions of all stakeholder groups (patients, doctors, nurses, administrators).
+- Purpose in the Simulation:
+  - It provides a high-level metric to evaluate the program's success.
+  - By tracking uptake over time, it identifies patterns and trends that can inform decision-making (e.g., whether engagement is improving or declining).
+  - Aggregating individual engagement levels into a single uptake rate is useful for comparing across time or scenarios.
+- Example: If engagement for doctors is high but low for administrators, the uptake rate highlights this gap. Monitoring it monthly ensures timely adjustments.
 
 ### 3. Feedback Loop and Why It Is Used
 Reason: Engagement in one period influences future participation, as people’s behavior often follows momentum (positive or negative). For instance:
