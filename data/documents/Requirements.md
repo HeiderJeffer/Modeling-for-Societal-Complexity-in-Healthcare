@@ -56,6 +56,7 @@ python.exe -m pip install --upgrade pip
 Copy/paste the following:
 
 ```
+pip install wordcloud
 pip install alpha_vantage
 pip install yfinance
 pip install yfinance matplotlib
