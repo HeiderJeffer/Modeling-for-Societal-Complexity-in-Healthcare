@@ -1,0 +1,162 @@
+
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz}
+
+\title{Statistical Distribution and Boxplot Explanation}
+\author{Heider Jeffer}
+\date{}
+
+\begin{document}
+	
+	\maketitle
+	
+	\section*{Boxplot Explanation}
+	
+	The \textbf{boxplot} used in the code visualizes the statistical distribution of engagement levels for each activity of a given stakeholder. In this case, the boxplot will help to understand the spread, central tendency, and potential outliers of the engagement levels.
+	
+	A \textbf{boxplot} (also known as a \textbf{box-and-whisker plot}) is used to display the distribution of a dataset. It shows the following:
+	
+	\begin{itemize}
+		\item \textbf{Median (Q2)}: The middle value of the dataset (50th percentile).
+		\item \textbf{First Quartile (Q1)}: The 25th percentile, or the median of the lower half of the data.
+		\item \textbf{Third Quartile (Q3)}: The 75th percentile, or the median of the upper half of the data.
+		\item \textbf{Interquartile Range (IQR)}: The range between the first quartile (Q1) and the third quartile (Q3). It represents the middle 50\% of the data.
+		\item \textbf{Whiskers}: These lines extend from the first quartile (Q1) and third quartile (Q3) to show the range of data. The whiskers typically extend to 1.5 $\times$ IQR from Q1 and Q3, beyond which points are considered as outliers.
+		\item \textbf{Outliers}: Data points that fall outside the whiskers are considered outliers and are typically marked as dots.
+	\end{itemize}
+	
+	\section*{Formulae for Boxplot Construction}
+	
+	Given a dataset of engagement levels for a particular activity, here are the key steps/formulae involved in calculating the statistics used in a boxplot:
+	
+	\begin{itemize}
+		\item \textbf{Median (Q2)}:
+		\[
+		\text{Median} = \text{middle value of sorted data}
+		\]
+		If the number of data points is odd, it's the middle number. If even, it’s the average of the two middle values.
+		
+		\item \textbf{First Quartile (Q1)}:
+		\[
+		Q1 = \text{median of the lower half of the dataset}
+		\]
+		
+		\item \textbf{Third Quartile (Q3)}:
+		\[
+		Q3 = \text{median of the upper half of the dataset}
+		\]
+		
+		\item \textbf{Interquartile Range (IQR)}:
+		\[
+		\text{IQR} = Q3 - Q1
+		\]
+		
+		\item \textbf{Whiskers}: The whiskers extend to:
+		\[
+		\text{Lower whisker} = \max(\text{Minimum value}, Q1 - 1.5 \times \text{IQR})
+		\]
+		\[
+		\text{Upper whisker} = \min(\text{Maximum value}, Q3 + 1.5 \times \text{IQR})
+		\]
+		Any data points outside these whiskers are considered outliers.
+	\end{itemize}
+	
+	\section*{Numerical Example}
+	
+	Let's walk through a simple numerical example based on the \texttt{df\_activity\_engagement} data, using one activity for a single stakeholder (say \textbf{Patients} and their activity \textbf{Participation in Care}).
+	
+	Assume we have the following engagement levels for \textbf{Patients} in the activity \textbf{Participation in Care} over 12 months:
+	
+	\[
+	[0.6, 0.65, 0.7, 0.55, 0.6, 0.7, 0.75, 0.6, 0.8, 0.65, 0.7, 0.55]
+	\]
+	
+	\subsection*{Step 1: Sort the Data}
+	Sort the data in ascending order:
+	
+	\[
+	[0.55, 0.55, 0.6, 0.6, 0.6, 0.65, 0.65, 0.7, 0.7, 0.7, 0.75, 0.8]
+	\]
+	
+	\subsection*{Step 2: Calculate the Median (Q2)}
+	There are 12 values, so the median is the average of the 6th and 7th values:
+	
+	\[
+	\text{Median} = \frac{0.65 + 0.65}{2} = 0.65
+	\]
+	
+	\subsection*{Step 3: Calculate the First Quartile (Q1)}
+	The first quartile is the median of the lower half of the data (first 6 values):
+	
+	\[
+	\text{Lower half: } [0.55, 0.55, 0.6, 0.6, 0.6, 0.65]
+	\]
+	The median of this half is the average of the 3rd and 4th values:
+	
+	\[
+	Q1 = \frac{0.6 + 0.6}{2} = 0.6
+	\]
+	
+	\subsection*{Step 4: Calculate the Third Quartile (Q3)}
+	The third quartile is the median of the upper half of the data (last 6 values):
+	
+	\[
+	\text{Upper half: } [0.65, 0.7, 0.7, 0.7, 0.75, 0.8]
+	\]
+	The median of this half is the average of the 3rd and 4th values:
+	
+	\[
+	Q3 = \frac{0.7 + 0.7}{2} = 0.7
+	\]
+	
+	\subsection*{Step 5: Calculate the Interquartile Range (IQR)}
+	\[
+	\text{IQR} = Q3 - Q1 = 0.7 - 0.6 = 0.1
+	\]
+	
+	\subsection*{Step 6: Calculate the Whiskers}
+	The lower whisker extends to:
+	
+	\[
+	\text{Lower whisker} = \max(\text{Minimum value}, Q1 - 1.5 \times \text{IQR}) = \max(0.55, 0.6 - 1.5 \times 0.1) = \max(0.55, 0.45) = 0.55
+	\]
+	
+	The upper whisker extends to:
+	
+	\[
+	\text{Upper whisker} = \min(\text{Maximum value}, Q3 + 1.5 \times \text{IQR}) = \min(0.8, 0.7 + 1.5 \times 0.1) = \min(0.8, 0.85) = 0.8
+	\]
+	
+	\subsection*{Step 7: Identify Outliers}
+	The outliers are any data points that fall outside the whiskers (below 0.55 or above 0.8). In this case, there are \textbf{no outliers}, as all data points fall within the whiskers.
+	
+	\section*{Final Distribution}
+	\begin{itemize}
+		\item \textbf{Median (Q2)}: 0.65
+		\item \textbf{First Quartile (Q1)}: 0.6
+		\item \textbf{Third Quartile (Q3)}: 0.7
+		\item \textbf{Interquartile Range (IQR)}: 0.1
+		\item \textbf{Lower Whisker}: 0.55
+		\item \textbf{Upper Whisker}: 0.8
+		\item \textbf{Outliers}: None
+	\end{itemize}
+	
+	\section*{Boxplot Interpretation}
+	
+	For the activity \textbf{Participation in Care}:
+	\begin{itemize}
+		\item The \textbf{box} will span from \textbf{0.6} (Q1) to \textbf{0.7} (Q3), with the \textbf{median line} at \textbf{0.65}.
+		\item The \textbf{whiskers} will extend from \textbf{0.55} (lower) to \textbf{0.8} (upper).
+		\item All the data points will fall within the whiskers, so there will be \textbf{no outliers}.
+	\end{itemize}
+	
+	\section*{Visualization in the Code}
+	
+	The \textbf{boxplot} will show a box from \textbf{0.6} to \textbf{0.7}, a line at \textbf{0.65} (median), and whiskers extending from \textbf{0.55} to \textbf{0.8}. If we had more data with more variation, the whiskers and box might expand or outliers could be detected, showing how the engagement levels fluctuate for the activity.
+	
+	\section*{Conclusion}
+	This is how the boxplot visualizes the distribution of engagement levels for an activity. By repeating this process for all activities and stakeholders, we can get a comprehensive view of how engagement varies across the stakeholders and their activities, identifying trends, stability, and outliers.
+	
+\end{document}
