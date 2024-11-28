@@ -60,10 +60,12 @@ Explore the supporting documents for comprehensive insights into stakeholder eng
 
 ---
 
-### Acknowledgment  
+### Legal Notice:  
 *“I authorize the processing of my personal data pursuant to art. 13 of Legislative Decree no. 196 of 30 June 2003 - ‘Personal Data Protection Code’ and art. 13 of GDPR 679/16 - ‘European Regulation on the Protection of Personal Data’.”*  
 
+---
+
 *Heider Jeffer*  
-*26th November 2024*  
+*28th November 2024*  
 
 --- 
