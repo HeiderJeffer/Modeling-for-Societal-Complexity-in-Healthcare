@@ -56,7 +56,7 @@ Explore the supporting documents for comprehensive insights into stakeholder eng
 3. **Dynamic Systems Modeling**  
    - [Investigate the Findings](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/data/documents/Dynamic%20Systems%20Modeling%20Exploring%20Fluctuations%2C%20Uptake%20Rates%2C%20and%20Feedback%20Loops.md)  
 
-…and many more listed in the repository for detailed technical, quantitative, and qualitative analyses.  
+…and many [more](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/tree/08b8a675fdabb09272fe5c42de4728646fc1a30e/data/documents) listed in the repository for detailed technical, quantitative, and qualitative analyses.  
 
 ---
 
