@@ -25,20 +25,19 @@ Experience our dynamic tools for healthcare modeling directly in your browser:
 3. **Hidden Markov Models for Stakeholder Engagement Visualization**  
    - [Simulate Here](https://colab.research.google.com/drive/10Xhi3mYzLiJCJdsXJZcVIorODaEE8E99?authuser=2)  
 
-<!--
+
 ### Dive into the Source Code  
 Gain deeper insights into our methodologies:  
 
-- **Dynamic Simulation of Stakeholder Engagement**  
-  - [View on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/software/Healthcare%20Participatory%20Model%20Simulation/Dynamic%20Simulation%20and%20Analysis%20of%20Stakeholder%20Engagement%20in%20Healthcare%20Quantitative%20and%20Qualitative%20Insights.ipynb)  
+- **Dynamic Stakeholder Simulation**  
+  - [View on GitHub](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/dynamic_stakeholder_simulation.ipynb)  
 
-- **Hidden Markov Models for Engagement Phases**  
-  - [Explore Here](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/software/Healthcare%20Participatory%20Model%20Simulation/Simulating%20and%20Visualizing%20Stakeholder%20Engagement%20Phases%20Using%20Hidden%20Markov%20Models.ipynb)  
+- **Hidden Markov Models Stakeholder Simulation**  
+  - [Explore Here](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/hmm_stakeholder_simulation.ipynb)  
 
-- **Markov Chain-Based Engagement Analysis**  
-  - [Access the Code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/software/Healthcare%20Participatory%20Model%20Simulation/Markov%20Chain-Based%20Dynamic%20Stakeholder%20Engagement%20Simulation%20and%20Analysis%20in%20Healthcare.ipynb)  
--->
-
+- **Markov Chain Stakeholder Engagement**  
+  - [Access the Code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/markov_chain_stakeholder_engagement.ipynb)  
+ 
 ### Research and Resources  
 Explore the supporting documents for comprehensive insights into stakeholder engagement in healthcare:  
 
