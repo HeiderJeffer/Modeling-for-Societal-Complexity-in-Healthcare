@@ -1,8 +1,6 @@
 ### Participatory Modeling for Societal Complexity in Healthcare  
 *by Heider Jeffer*  
 
----
-
 ### Welcome!  
 We’re thrilled to introduce our project on **participatory modeling** for tackling societal complexity in healthcare systems.  
 
@@ -12,12 +10,10 @@ Our approach follows a **rolling release model**, ensuring that regular updates 
 
 We invite you to explore, experiment, and engage with us. Your feedback is invaluable!  
 
----
+
 ### Explore Our Project  
 Discover the full scope of our work:  
 - [GitHub Repository](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare)  
-
----
 
 ### Interactive Simulations on Google Colab  
 Experience our dynamic tools for healthcare modeling directly in your browser:  
@@ -29,7 +25,6 @@ Experience our dynamic tools for healthcare modeling directly in your browser:
 3. **Hidden Markov Models for Stakeholder Engagement Visualization**  
    - [Simulate Here](https://colab.research.google.com/drive/10Xhi3mYzLiJCJdsXJZcVIorODaEE8E99?authuser=2)  
 
----
 <!--
 ### Dive into the Source Code  
 Gain deeper insights into our methodologies:  
@@ -43,6 +38,7 @@ Gain deeper insights into our methodologies:
 - **Markov Chain-Based Engagement Analysis**  
   - [Access the Code](https://github.com/HeiderJeffer/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/blob/main/software/Healthcare%20Participatory%20Model%20Simulation/Markov%20Chain-Based%20Dynamic%20Stakeholder%20Engagement%20Simulation%20and%20Analysis%20in%20Healthcare.ipynb)  
 -->
+
 ### Research and Resources  
 Explore the supporting documents for comprehensive insights into stakeholder engagement in healthcare:  
 
