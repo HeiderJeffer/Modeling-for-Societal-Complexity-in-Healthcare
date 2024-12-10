@@ -1,9 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.22)  28 NOV 2024 08:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.10)  10 DEC 2024 18:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
+**"D:/GitHub/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/latex
+/Statistical Distribution and Boxplot Explanation/main.tex"
+
+(D:/GitHub/Participatory-Modeling-for-Societal-Complexity-in-Healthcare/latex/S
+tatistical Distribution and Boxplot Explanation/main.tex
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -465,13 +468,13 @@ L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 12461 strings out of 473682
- 254419 string characters out of 5729120
+ 12463 strings out of 473682
+ 254801 string characters out of 5729120
  623908 words of memory out of 5000000
  35350 multiletter control sequences out of 15000+600000
  563955 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,93p,387b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,6n,93p,513b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\313\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm10
 00.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/
